@@ -64,6 +64,9 @@ fontBar1.onClick ->
 	fontBar1.visible = false
 	editSection3.visible = true
 
+fontBar2.onClick ->
+	return
+
 
 
 
