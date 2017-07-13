@@ -1,0 +1,259 @@
+app.coffee
+framer/backups/backup-2017-07-12 14.21.57.coffee
+framer/backups/backup-2017-07-12 14.22.57.coffee
+framer/backups/backup-2017-07-12 14.24.57.coffee
+framer/backups/backup-2017-07-12 14.26.57.coffee
+framer/backups/backup-2017-07-12 14.27.57.coffee
+framer/backups/backup-2017-07-12 14.29.57.coffee
+framer/backups/backup-2017-07-12 14.30.57.coffee
+framer/backups/backup-2017-07-12 14.32.57.coffee
+framer/backups/backup-2017-07-12 14.33.57.coffee
+framer/backups/backup-2017-07-12 14.37.23.coffee
+framer/backups/backup-2017-07-12 14.37.23.vekter
+framer/backups/backup-2017-07-12 14.40.23.coffee
+framer/backups/backup-2017-07-12 14.41.23.coffee
+framer/backups/backup-2017-07-12 14.47.23.coffee
+framer/backups/backup-2017-07-12 14.48.23.coffee
+framer/backups/backup-2017-07-12 14.53.23.coffee
+framer/backups/backup-2017-07-12 15.02.23.coffee
+framer/backups/backup-2017-07-12 15.04.23.coffee
+framer/backups/backup-2017-07-12 15.06.26.coffee
+framer/backups/backup-2017-07-12 15.07.23.coffee
+framer/backups/backup-2017-07-12 15.08.23.coffee
+framer/backups/backup-2017-07-12 16.25.24.coffee
+framer/backups/backup-2017-07-12 16.26.25.coffee
+framer/backups/backup-2017-07-12 16.29.24.coffee
+framer/backups/backup-2017-07-12 16.30.24.coffee
+framer/backups/backup-2017-07-12 16.31.24.coffee
+framer/backups/backup-2017-07-12 16.32.24.coffee
+framer/backups/backup-2017-07-12 16.33.24.coffee
+framer/backups/backup-2017-07-12 16.34.24.coffee
+framer/backups/backup-2017-07-12 16.37.24.coffee
+framer/backups/backup-2017-07-12 16.38.24.coffee
+framer/backups/backup-2017-07-12 16.39.24.coffee
+framer/backups/backup-2017-07-12 16.40.24.coffee
+framer/backups/backup-2017-07-12 16.41.24.coffee
+framer/backups/backup-2017-07-12 16.44.25.coffee
+framer/backups/backup-2017-07-12 19.11.24.coffee
+framer/backups/backup-2017-07-12 19.12.24.coffee
+framer/backups/backup-2017-07-12 19.14.26.coffee
+framer/backups/backup-2017-07-12 19.15.24.coffee
+framer/backups/backup-2017-07-12 19.18.24.coffee
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/_vekter/gLHtIhhw2tds7z7EbKuoj2G5TgK5h7KBMukuwytjmVOy0YdMImn55Qahg00C7e8PIK4mgLPGbGuVa1upBzpXjA
+images/_vekter/gLHtIhhw2tds7z7EbKuoj2G5TgK5h7KBMukuwytjmVOy0YdMImn55Qahg00C7e8PIK4mgLPGbGuVa1upBzpXjA-1024
+images/_vekter/gLHtIhhw2tds7z7EbKuoj2G5TgK5h7KBMukuwytjmVOy0YdMImn55Qahg00C7e8PIK4mgLPGbGuVa1upBzpXjA-2048
+images/_vekter/gLHtIhhw2tds7z7EbKuoj2G5TgK5h7KBMukuwytjmVOy0YdMImn55Qahg00C7e8PIK4mgLPGbGuVa1upBzpXjA-512
+images/_vekter/gLHtIhhw2tds7z7EbKuoj2G5TgK5h7KBMukuwytjmVOy0YdMImn55Qahg00C7e8PIK4mgLPGbGuVa1upBzpXjA-preview
+imported/Global Sections V2 Prototype@1x/images/Layer-$0_40_0_0-menbody4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-$0_40_0_0-ouy3n0yz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-$0_40_0_0-qjqwrkze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-$0_40_0_0-quvgmzjd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-$0_40_0_0-rki0q0zg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Alert_Warning-oerdnjze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Alert_Warning-rtnbmjqz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-applyChanges-qkncodu3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-applyChangesOpacity-mtngqjq5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-applyChangesScrollGuide-quzdqtu3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-artboard-meuzrdyy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-backZone-rda4qze5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-bg-mjuznzyx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-bg-qzg3qju2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-bg-qzy3rem4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-bg3Applied-ndk0oeex.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-bgGlobal-rjezqjuw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-btnBack-rkq3que0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-btnBackTopBar-qkfbrdiz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-btnProceed-rdjdmdyx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Builder_Design_Top_Bar-n0zcmjdc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1content-rkiyqunb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1hover-q0vdrjqz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d2content-njfentc5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d2hover-qja0oeix.png
+imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelected-mdjenzi2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelectedToggle-qkncnkm1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelectedToggleGlobal-nju3ndjf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown-munbrune.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown1-qzg1mufd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown2-nzdfoerf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown3-qzbgqtfg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown4-mzuxnzc0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown5-ntnemdng.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobal-q0uxouvf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobalClick-nevcqtey.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownSettingsGlobal-q0yxmuuz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-editClick-ndveodbb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-editClickBar-otewmefb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-editClickBarMobile-nda3nju2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-editOpacity-rjyxqzhd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-editSection1-mey4rtg4.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-editSection3-odm2mtld.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-exit-ounfnzy4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-exitModalBg-meexmtc5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-exitModalCancel-mzixodrb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-exitModalExit-rjjbmejf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-exitModalOpacity-ndi4qtgw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-fontBar1-rknbneyy.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-fontBar2-mkq4mzbg.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-fontbarBack-qtywnzgw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicator-qja5mufe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicatorMobile-njewqzbb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globScrollBarBg-qtmynzq2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globScrollGuide-qjk4qjnf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globScrollKnob-rdu1rkew.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globSectionsClick-q0iwndvd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group-mzfbm0vd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group-nthdmda4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group-rereotyx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group-rtfgnjiz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_10-njuyrty0.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_10-qje0qkjf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_11-mdgxrtu0.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_12-mty4qzu2.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_1200-mzu2oezg.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_14-rta4nkng.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_15-ree1mdm5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_16-nzzgndzd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_17-nkzeqte2.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_18-mtg4meu3.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-mje0muu4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-mtrgotzd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-qjrfnjle.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-qkjgnddd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-qzbcrki4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_20-mtc5ruu3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_20-neq3m0zd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_22-n0fbmzhe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_23-rtixnzrf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-mjgxrty0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-mtgwmtqy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-nee3mtje.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_4-qjg2mezf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_4-qknfrum2.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_4-quzcrtzd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_5-qjfbqtdg.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_6-n0uxq0q0.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_6-neqyndgw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_7-rjdbnjhf.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_8-mjc4nky5.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_8-rem2rurd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_9-qzhdrtyy.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_Copy-nerertmw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_Copy-njk4mdkw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_Copy_2-ote1otlg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_Copy_2-q0u2ndi4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Group_Copy_3-neyxmzze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Input_16_before_typeing-ote3otzg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Input_border-nercndc5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-instScrollBarBg-ndizqtky.png
+imported/Global Sections V2 Prototype@1x/images/Layer-instScrollGuide-nueyotgx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-instScrollKnob-qtderjay.png
+imported/Global Sections V2 Prototype@1x/images/Layer-instSectionsClick-qkfcmtrg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobile_copy-rjvgodhg.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileBg-m0vbnerd.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileEditOpacity-nza4rtix.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileHover1-mdhdmkm2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileHover2-rkvdn0i0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileHover4-oddbmtmz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileHover5-nje0mjbe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileHover6-oddbntzf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileSection2-nuzfoeqz.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileSection3-nkvcmdc3.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileSelectedToggle-mzrbmzez.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileSelectedToggleGlobal-nuzemkzc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar1-rjexrkm0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar2-m0i1qtzg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar3Edit-rdk5qzbg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar4-ndrerjbe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar5-nee5qjc5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-mobileToolbar6-ndaxnzk3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit-muqxnzje.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit1-rjdbrtk4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit2-qjq0qjje.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit3-qtcyn0re.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit4-m0y2ndq3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShit5-qtm2qzex.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShitGlobal-mziyrdgy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-NOTIFICATION_Dot_Orange-mjizmje4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-NOTIFICATION_Dot_Orange-qzy2mdbb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-mjuzrta1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-mtvdnuqw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-ntzdmdmw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-oeuynjax.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-otdgrefc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-qjhbruy5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-rthcntg0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover1-mjhgmzm0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover2-mjy5mdez.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover3-mdczneyx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover4-mei0n0e3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover5-nkm2nku4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionManagerOpacity-nzffqzze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionZone-qjbcqtng.png
+imported/Global Sections V2 Prototype@1x/images/Layer-showHidden-renenevf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-signupBtnBack-rtu5mzze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-signupBtnInsert-mejgmku1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-signupClick-rjaznjhc.jpg
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-mdvdodvf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-mem1mjrc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-mjy4otqx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-ndqxnkm5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-otg2nee1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-rte1ntnc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Stacked_Group-ruvfqkux.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar-njldnjjf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar1-n0ixnje4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar2-mjuymend.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar3-rue2mdi2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar4-m0mxrjld.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbar5-rdrbmdjb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbarEditBack-mjbgoejg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal-muewq0uw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-Top_bar_42px-njuwm0u2.png
+imported/Global Sections V2 Prototype@1x/images/Layer-topBar-mjrbmzg1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobal-rezgnzk3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobalMessage-ouy0otay.png
+imported/Global Sections V2 Prototype@1x/images/Layer-topBarToggleDesktopSelected-mzuwnjaw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-topBarToggleMobileSelected-qjy2qkre.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version1-rum1rta5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version1Hover-oem1q0fb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version2-reexney4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version2Hover-mufemui0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version3-njc3otmx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version3Hover-mdvgnem4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version4-ouncqza5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version4Hover-ruqzq0iw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version5-ouq3rkm0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version5Hover-otfbnzc3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version6-mtywoei0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-version6Hover-ntg1rtgw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-versionActive-rdrdq0nb.png
+imported/Global Sections V2 Prototype@1x/layers.json
+imported/Global Sections V2 Prototype@1x/layers.json.js
+index.html
+modules/myModule.coffee
