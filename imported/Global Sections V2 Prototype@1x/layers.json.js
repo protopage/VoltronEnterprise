@@ -3382,6 +3382,33 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
+						"objectId": "BAAD2384-0388-43C1-8797-37A45D8A1888",
+						"kind": "group",
+						"name": "btnBackTopBar",
+						"originalName": "btnBackTopBar*",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 23,
+							"y": 17,
+							"width": 8,
+							"height": 13
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-btnBackTopBar-qkfbrdiz.png",
+							"frame": {
+								"x": 23,
+								"y": 17,
+								"width": 8,
+								"height": 13
+							}
+						},
+						"children": []
+					},
+					{
 						"objectId": "3B84B637-8F32-490B-A1D1-AF41B5C92E73",
 						"kind": "group",
 						"name": "mobileGlobal",
@@ -3539,8 +3566,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							{
 								"objectId": "D207B600-4EE0-4E8A-A34B-05B7260CD9C2",
 								"kind": "group",
-								"name": "Builder_Design_New_Element_Toolbar",
-								"originalName": "Builder Design / New Element Toolbar",
+								"name": "globalAddNew",
+								"originalName": "globalAddNew",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -4,
@@ -3782,33 +3809,6 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"children": [
-							{
-								"objectId": "BAAD2384-0388-43C1-8797-37A45D8A1888",
-								"kind": "group",
-								"name": "btnBackTopBar",
-								"originalName": "btnBackTopBar*",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 23,
-									"y": 17,
-									"width": 8,
-									"height": 13
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-btnBackTopBar-qkfbrdiz.png",
-									"frame": {
-										"x": 23,
-										"y": 17,
-										"width": 8,
-										"height": 13
-									}
-								},
-								"children": []
-							},
 							{
 								"objectId": "9F4902A8-8BED-438E-B20A-4208F26EFBF3",
 								"kind": "text",
@@ -4075,7 +4075,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "6432D640-B765-49C7-873B-04DB0CD1E11A",
 										"kind": "group",
-										"name": "Builder_Design_New_Element_Toolbar1",
+										"name": "Builder_Design_New_Element_Toolbar",
 										"originalName": "Builder Design / New Element Toolbar",
 										"maskFrame": null,
 										"layerFrame": {
