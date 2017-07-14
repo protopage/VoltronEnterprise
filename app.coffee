@@ -18,7 +18,7 @@ mobile.visible = false
 exitModal.visible = false
 fontsBar.visible = false
 artboard.x = Align.center()
-
+Screen.backgroundColor = "#F5F5F5"
 
 # Scroll
 scroll = ScrollComponent.wrap(scrollers)
@@ -113,7 +113,14 @@ for i in [0...mobileHovers.length]
 	createMobileHovers(i)
 
 
+sectionEdit.onMouseOver ->
+	editClick.visible = true
 
+sectionEdit.onMouseOut ->
+	editClick.visible = false
+
+sectionEdit.onClick ->
+	return
 
 mobileToolbar3.visible = false
 mobileToolbar3Edit.visible = false
