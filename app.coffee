@@ -480,6 +480,7 @@ desktopSelectedToggleGlobal.onClick ->
 	desktopGlobal.visible = false
 	mobile.visible = true
 	editState.visible = false	
+	dropdownGlobalClick.visible = false
 
 mobileSelectedToggleGlobal.onClick ->
 	desktopGlobal.visible = true
@@ -487,6 +488,7 @@ mobileSelectedToggleGlobal.onClick ->
 	editState.visible = true
 	mobile.visible = false
 	editOpacity.opacity = 1
+	dropdownGlobalClick.visible = true
 
 
 
