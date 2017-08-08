@@ -137,6 +137,7 @@ globalHover.visible = false
 globalHoverZone.onMouseOver ->
 	globalHover.visible = true
 
+
 globalHoverZone.onMouseOut ->
 	globalHover.visible = false
 
