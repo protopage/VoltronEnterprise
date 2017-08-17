@@ -1,44 +1,44 @@
 app.coffee
-framer/backups/backup-2017-07-14 10.33.22.coffee
-framer/backups/backup-2017-07-14 10.35.22.coffee
-framer/backups/backup-2017-07-18 08.59.08.coffee
-framer/backups/backup-2017-07-18 08.59.08.vekter
-framer/backups/backup-2017-07-25 08.58.38.coffee
-framer/backups/backup-2017-07-25 08.58.38.vekter
-framer/backups/backup-2017-07-26 10.21.54.coffee
-framer/backups/backup-2017-07-26 10.21.54.vekter
-framer/backups/backup-2017-07-27 04.14.21.coffee
-framer/backups/backup-2017-07-27 04.14.21.vekter
-framer/backups/backup-2017-07-28 16.09.47.coffee
-framer/backups/backup-2017-07-28 16.09.47.vekter
-framer/backups/backup-2017-07-28 16.14.47.coffee
-framer/backups/backup-2017-07-28 16.15.47.coffee
-framer/backups/backup-2017-07-28 16.16.48.coffee
-framer/backups/backup-2017-07-28 16.17.48.coffee
-framer/backups/backup-2017-08-01 13.07.24.coffee
-framer/backups/backup-2017-08-01 13.07.24.vekter
-framer/backups/backup-2017-08-01 14.14.27.coffee
-framer/backups/backup-2017-08-01 14.14.27.vekter
-framer/backups/backup-2017-08-01 15.27.40.coffee
-framer/backups/backup-2017-08-01 15.27.40.vekter
-framer/backups/backup-2017-08-01 15.34.43.coffee
-framer/backups/backup-2017-08-01 15.34.43.vekter
-framer/backups/backup-2017-08-01 15.37.43.coffee
-framer/backups/backup-2017-08-01 15.38.43.coffee
-framer/backups/backup-2017-08-01 15.52.43.coffee
-framer/backups/backup-2017-08-01 15.53.43.coffee
-framer/backups/backup-2017-08-01 15.54.43.coffee
-framer/backups/backup-2017-08-01 15.55.43.coffee
-framer/backups/backup-2017-08-01 15.58.43.coffee
-framer/backups/backup-2017-08-04 12.08.02.coffee
-framer/backups/backup-2017-08-04 12.08.02.vekter
-framer/backups/backup-2017-08-07 09.51.40.coffee
-framer/backups/backup-2017-08-07 09.51.40.vekter
-framer/backups/backup-2017-08-07 09.58.40.coffee
-framer/backups/backup-2017-08-07 09.59.40.coffee
-framer/backups/backup-2017-08-08 11.23.28.coffee
-framer/backups/backup-2017-08-08 11.23.28.vekter
-framer/backups/backup-2017-08-08 11.27.28.coffee
+framer/backups/backup-2017-08-15 14.32.13.coffee
+framer/backups/backup-2017-08-15 14.33.13.coffee
+framer/backups/backup-2017-08-15 14.35.13.coffee
+framer/backups/backup-2017-08-15 14.36.13.coffee
+framer/backups/backup-2017-08-15 14.37.13.coffee
+framer/backups/backup-2017-08-15 14.42.13.coffee
+framer/backups/backup-2017-08-15 14.45.13.coffee
+framer/backups/backup-2017-08-15 14.46.13.coffee
+framer/backups/backup-2017-08-15 14.47.13.coffee
+framer/backups/backup-2017-08-15 14.49.13.coffee
+framer/backups/backup-2017-08-15 15.00.13.coffee
+framer/backups/backup-2017-08-15 15.01.13.coffee
+framer/backups/backup-2017-08-15 15.23.13.coffee
+framer/backups/backup-2017-08-15 15.32.14.coffee
+framer/backups/backup-2017-08-15 15.33.13.coffee
+framer/backups/backup-2017-08-15 15.35.13.coffee
+framer/backups/backup-2017-08-15 15.36.13.coffee
+framer/backups/backup-2017-08-15 15.42.13.coffee
+framer/backups/backup-2017-08-16 12.06.03.coffee
+framer/backups/backup-2017-08-16 12.06.03.vekter
+framer/backups/backup-2017-08-17 10.42.17.coffee
+framer/backups/backup-2017-08-17 10.43.17.coffee
+framer/backups/backup-2017-08-17 11.17.17.coffee
+framer/backups/backup-2017-08-17 16.07.56.coffee
+framer/backups/backup-2017-08-17 16.09.03.coffee
+framer/backups/backup-2017-08-17 16.09.58.coffee
+framer/backups/backup-2017-08-17 16.10.57.coffee
+framer/backups/backup-2017-08-17 16.11.56.coffee
+framer/backups/backup-2017-08-17 16.13.00.coffee
+framer/backups/backup-2017-08-17 16.13.56.coffee
+framer/backups/backup-2017-08-17 16.14.56.coffee
+framer/backups/backup-2017-08-17 16.22.57.coffee
+framer/backups/backup-2017-08-17 16.23.57.coffee
+framer/backups/backup-2017-08-17 16.24.57.coffee
+framer/backups/backup-2017-08-17 16.31.57.coffee
+framer/backups/backup-2017-08-17 16.32.57.coffee
+framer/backups/backup-2017-08-17 16.33.57.coffee
+framer/backups/backup-2017-08-17 16.34.57.coffee
+framer/backups/backup-2017-08-17 16.35.57.coffee
+framer/backups/backup-2017-08-17 16.36.57.coffee
 framer/coffee-script.js
 framer/config.json
 framer/design.vekter
@@ -79,7 +79,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-applyChanges-qkncodu3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-applyChangesOpacity-mtngqjq5.png
 imported/Global Sections V2 Prototype@1x/images/Layer-applyChangesScrollGuide-quzdqtu3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-artboard-meuzrdyy.png
-imported/Global Sections V2 Prototype@1x/images/Layer-backZone-rda4qze5.png
 imported/Global Sections V2 Prototype@1x/images/Layer-bg-mjuznzyx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-bg-qzg3qju2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-bg-qzy3rem4.png
@@ -89,21 +88,45 @@ imported/Global Sections V2 Prototype@1x/images/Layer-btnBack-rkq3que0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-btnBackTopBar-qkfbrdiz.png
 imported/Global Sections V2 Prototype@1x/images/Layer-btnProceed-rdjdmdyx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Builder_Design_Top_Bar-n0zcmjdc.png
-imported/Global Sections V2 Prototype@1x/images/Layer-d1content-rkiyqunb.png
-imported/Global Sections V2 Prototype@1x/images/Layer-d1hover-q0vdrjqz.png
-imported/Global Sections V2 Prototype@1x/images/Layer-d2content-njfentc5.png
-imported/Global Sections V2 Prototype@1x/images/Layer-d2hover-qja0oeix.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1content-rtg1qzm1.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1contentGlobal-rkiyqunb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1hover-mky4ouq4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d1hoverGlobal-q0vdrjqz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d2content-qjqwnuzg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d2hover-quu1nezd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d3content-rdngqkiy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d3contentGlobal-njhcrdaw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d3hover-ndm1rdzb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d3hoverGlobal-qkrcq0qw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d4content-nkvgqtfd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d4contentGlobal-nku5nzyx.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d4hover-rtg4mtvg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d4hoverGlobal-mke5qkiw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d5content-mzjgqkvf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d5hover-mde0nuvd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d6content-nzeyqum3.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d6hover-qte1rjiz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d7content-rdddmzy0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d7hover-ntqymzc0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d8content-rduznezg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d8hover-nuzbmuuz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d9content-qkrfnkvd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-d9hover-otawndk1.png
 imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelected-mdjenzi2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelectedToggle-qkncnkm1.png
 imported/Global Sections V2 Prototype@1x/images/Layer-desktopSelectedToggleGlobal-nju3ndjf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-disconnectGlobalSection-ntjgqjqz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdown-mdvbnurb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdown1-qzg1mufd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdown2-nzdfoerf.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdown3-qzbgqtfg.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdown4-mzuxnzc0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdown5-ntnemdng.png
-imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobal-q0uxouvf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobal1-q0uxouvf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobal2-qkq3mdi0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdownGlobalClick-nevcqtey.png
 imported/Global Sections V2 Prototype@1x/images/Layer-dropdownSettingsGlobal-q0yxmuuz.png
+imported/Global Sections V2 Prototype@1x/images/Layer-dropdownZone-rtixnzrf.png
 imported/Global Sections V2 Prototype@1x/images/Layer-editClick-ndveodbb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-editClickBar-otewmefb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-editClickBarMobile-nda3nju2.png
@@ -118,12 +141,18 @@ imported/Global Sections V2 Prototype@1x/images/Layer-exitModalOpacity-ndi4qtgw.
 imported/Global Sections V2 Prototype@1x/images/Layer-fontBar1-rknbneyy.png
 imported/Global Sections V2 Prototype@1x/images/Layer-fontBar2-mkq4mzbg.png
 imported/Global Sections V2 Prototype@1x/images/Layer-fontbarBack-qtywnzgw.png
-imported/Global Sections V2 Prototype@1x/images/Layer-globalHover-rdq4rtze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHover1-rdq4rtze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHover2-ntqxm0my.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverMobile-mte3rte3.png
-imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverZone-mza4mtlf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverMobile2-qzrdrty4.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverZone1-mza4mtlf.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverZone2-njmwn0e4.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverZoneMobile-muzgrkmy.png
-imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicator-qja5mufe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalHoverZoneMobile2-oue5mey5.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicator1-qja5mufe.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicator2-qtg1rtnd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicatorMobile-njewqzbb.png
+imported/Global Sections V2 Prototype@1x/images/Layer-globalSectionIndicatorMobile2-rky4nkne.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globScrollBarBg-qtmynzq2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globScrollGuide-qjk4qjnf.png
 imported/Global Sections V2 Prototype@1x/images/Layer-globScrollKnob-rdu1rkew.png
@@ -138,7 +167,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-Group_11-mdgxrtu0.jpg
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_12-mty4qzu2.jpg
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_1200-mzu2oezg.jpg
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_14-rta4nkng.png
-imported/Global Sections V2 Prototype@1x/images/Layer-Group_15-ree1mdm5.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_16-nzzgndzd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_17-nkzeqte2.jpg
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_18-mtg4meu3.jpg
@@ -148,7 +176,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-Group_2-qzbcrki4.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_20-mtc5ruu3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_20-neq3m0zd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_22-n0fbmzhe.png
-imported/Global Sections V2 Prototype@1x/images/Layer-Group_23-rtixnzrf.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-mjgxrty0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-mtgwmtqy.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Group_3-nee3mtje.png
@@ -196,10 +223,13 @@ imported/Global Sections V2 Prototype@1x/images/Layer-moreShit2-qjq0qjje.png
 imported/Global Sections V2 Prototype@1x/images/Layer-moreShit3-qtcyn0re.png
 imported/Global Sections V2 Prototype@1x/images/Layer-moreShit4-m0y2ndq3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-moreShit5-qtm2qzex.png
-imported/Global Sections V2 Prototype@1x/images/Layer-moreShitGlobal-mziyrdgy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShitGlobal1-mziyrdgy.png
+imported/Global Sections V2 Prototype@1x/images/Layer-moreShitGlobal2-n0i0rtrb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-NOTIFICATION_Dot_Orange-mjizmje4.png
 imported/Global Sections V2 Prototype@1x/images/Layer-NOTIFICATION_Dot_Orange-qzy2mdbb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-nknboefg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-q0qznte0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-qze4mzq2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-rjy0ndng.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-rkqymzmx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-mjuzrta1.png
@@ -209,12 +239,18 @@ imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-oeuynjax.pn
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-otdgrefc.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-qjhbruy5.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-rthcntg0.png
+imported/Global Sections V2 Prototype@1x/images/Layer-saveGlobalSection-oddequjd.png
+imported/Global Sections V2 Prototype@1x/images/Layer-savingModalBg-mdy4qtex.png
+imported/Global Sections V2 Prototype@1x/images/Layer-savingModalCancel-njjcntlc.png
+imported/Global Sections V2 Prototype@1x/images/Layer-savingModalSave-oeiyrjvd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover1-mjhgmzm0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover2-mjy5mdez.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover3-mdczneyx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover4-mei0n0e3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionHover5-nkm2nku4.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionManagerOpacity-nzffqzze.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionNameLineGuide-q0ngndne.png
+imported/Global Sections V2 Prototype@1x/images/Layer-sectionNameTextGuide-qjmyneu3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-sectionZone-qjbcqtng.png
 imported/Global Sections V2 Prototype@1x/images/Layer-showHidden-renenevf.png
 imported/Global Sections V2 Prototype@1x/images/Layer-signupBtnBack-rtu5mzze.png
@@ -234,29 +270,19 @@ imported/Global Sections V2 Prototype@1x/images/Layer-toolbar3-rue2mdi2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbar4-m0mxrjld.png
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbar5-rdrbmdjb.png
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbarEditBack-mjbgoejg.png
-imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal-muewq0uw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal1-muewq0uw.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal2-mum5muvg.png
+imported/Global Sections V2 Prototype@1x/images/Layer-toolbarMobile-mdk1rkqx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-tooltip-otc5mtfe.png
 imported/Global Sections V2 Prototype@1x/images/Layer-tooltipZone-ote3rdc2.png
-imported/Global Sections V2 Prototype@1x/images/Layer-Top_bar_42px-njuwm0u2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBar-mjrbmzg1.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobal-rezgnzk3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobalMessage-ouy0otay.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarToggleDesktopSelected-mzuwnjaw.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarToggleMobileSelected-qjy2qkre.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version1-rum1rta5.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version1Hover-oem1q0fb.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version2-reexney4.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version2Hover-mufemui0.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version3-njc3otmx.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version3Hover-mdvgnem4.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version4-ouncqza5.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version4Hover-ruqzq0iw.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version5-ouq3rkm0.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version5Hover-otfbnzc3.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version6-mtywoei0.png
-imported/Global Sections V2 Prototype@1x/images/Layer-version6Hover-ntg1rtgw.png
-imported/Global Sections V2 Prototype@1x/images/Layer-versionActive-rdrdq0nb.png
 imported/Global Sections V2 Prototype@1x/layers.json
 imported/Global Sections V2 Prototype@1x/layers.json.js
 index.html
+modules/input.coffee
+modules/keyboard.png
 modules/myModule.coffee

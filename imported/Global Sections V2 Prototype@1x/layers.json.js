@@ -31,6 +31,188 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 		},
 		"children": [
 			{
+				"objectId": "87EA3792-5334-446E-9182-3B559B1B75C8",
+				"kind": "group",
+				"name": "savingModal",
+				"originalName": "savingModal",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1440,
+					"height": 4261
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "691120FC-7F0C-47D3-A4FF-C9CA097EF682",
+						"kind": "group",
+						"name": "sectionName",
+						"originalName": "sectionName",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 410,
+							"y": 274,
+							"width": 620,
+							"height": 25
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "B324E702-AE97-4BD4-BAB1-705C44FC9642",
+								"kind": "text",
+								"name": "sectionNameTextGuide",
+								"originalName": "sectionNameTextGuide",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 410,
+									"y": 274,
+									"width": 99,
+									"height": 14
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1,
+									"string": "Section name",
+									"css": [
+										"/* Input name: */",
+										"font-family: Roboto-Regular;",
+										"font-size: 16px;",
+										"color: #7F919A;",
+										"letter-spacing: 0.16px;",
+										"line-height: 24px;"
+									]
+								},
+								"image": {
+									"path": "images/Layer-sectionNameTextGuide-qjmyneu3.png",
+									"frame": {
+										"x": 410,
+										"y": 274,
+										"width": 99,
+										"height": 14
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "CCF43DF5-3E79-48A6-A57C-FCF7AD0DE076",
+								"kind": "group",
+								"name": "sectionNameLineGuide",
+								"originalName": "sectionNameLineGuide",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 410,
+									"y": 298,
+									"width": 620,
+									"height": 1
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-sectionNameLineGuide-q0ngndne.png",
+									"frame": {
+										"x": 410,
+										"y": 298,
+										"width": 620,
+										"height": 1
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "8B2F5CAE-5F7A-40C9-857D-C3E7B85B31FB",
+						"kind": "group",
+						"name": "savingModalSave",
+						"originalName": "savingModalSave",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 930,
+							"y": 352,
+							"width": 104,
+							"height": 44
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-savingModalSave-oeiyrjvd.png",
+							"frame": {
+								"x": 930,
+								"y": 352,
+								"width": 104,
+								"height": 44
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "62B59B9B-7BB1-49BB-B862-C6AA1D99AC3B",
+						"kind": "group",
+						"name": "savingModalCancel",
+						"originalName": "savingModalCancel",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 821,
+							"y": 352,
+							"width": 98,
+							"height": 44
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-savingModalCancel-njjcntlc.png",
+							"frame": {
+								"x": 821,
+								"y": 352,
+								"width": 98,
+								"height": 44
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "068A119B-8084-4B50-BE7D-31211D75830E",
+						"kind": "group",
+						"name": "savingModalBg",
+						"originalName": "savingModalBg",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1440,
+							"height": 4261
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-savingModalBg-mdy4qtex.png",
+							"frame": {
+								"x": 0,
+								"y": 0,
+								"width": 1440,
+								"height": 4261
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
 				"objectId": "DD210627-D1F0-4B9B-83A2-0196A53C5554",
 				"kind": "group",
 				"name": "applyChangesModal",
@@ -138,7 +320,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 416,
 							"y": 358,
-							"width": 558,
+							"width": 115,
 							"height": 192
 						},
 						"visible": true,
@@ -155,7 +337,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"layerFrame": {
 									"x": 416,
 									"y": 358,
-									"width": 558,
+									"width": 115,
 									"height": 192
 								},
 								"visible": true,
@@ -601,15 +783,15 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 441,
 											"y": 388,
-											"width": 533,
-											"height": 14
+											"width": 49,
+											"height": 12
 										},
 										"visible": true,
 										"metadata": {
 											"opacity": 1,
-											"string": "Page that has a very long title that extends beyond what this 680 pixel modal can a...",
+											"string": "Model 3",
 											"css": [
-												"/* Page that has a very: */",
+												"/* Model 3: */",
 												"font-family: Roboto-Regular;",
 												"font-size: 14px;",
 												"color: #37475A;",
@@ -622,8 +804,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"frame": {
 												"x": 441,
 												"y": 388,
-												"width": 533,
-												"height": 14
+												"width": 49,
+												"height": 12
 											}
 										},
 										"children": []
@@ -2667,544 +2849,6 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 				]
 			},
 			{
-				"objectId": "D3F7D741-4B44-4E31-88B1-D12D1E4F8CEC",
-				"kind": "group",
-				"name": "versionHistoryBar",
-				"originalName": "versionHistoryBar",
-				"maskFrame": null,
-				"layerFrame": {
-					"x": -4,
-					"y": 0,
-					"width": 1448,
-					"height": 124
-				},
-				"visible": true,
-				"metadata": {
-					"opacity": 1
-				},
-				"children": [
-					{
-						"objectId": "D08C195D-A420-4C0B-B179-6F4B78615D26",
-						"kind": "group",
-						"name": "backZone",
-						"originalName": "backZone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 0,
-							"y": 0,
-							"width": 45,
-							"height": 42
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-backZone-rda4qze5.png",
-							"frame": {
-								"x": 0,
-								"y": 0,
-								"width": 45,
-								"height": 42
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "D4CCCAF2-A852-4A55-B2DD-D3200B08969A",
-						"kind": "group",
-						"name": "versionActive",
-						"originalName": "versionActive",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 30,
-							"y": 58,
-							"width": 124,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-versionActive-rdrdq0nb.png",
-							"frame": {
-								"x": 30,
-								"y": 58,
-								"width": 124,
-								"height": 35
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "1E0697BF-D9B9-4146-8C80-27955153EEE8",
-						"kind": "group",
-						"name": "version1Zone",
-						"originalName": "version1Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 1008,
-							"y": 58,
-							"width": 125,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "8C5CAA44-D1E9-456A-872F-086F0B9776BE",
-								"kind": "group",
-								"name": "version1Hover",
-								"originalName": "version1Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 1008,
-									"y": 58,
-									"width": 125,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version1Hover-oem1q0fb.png",
-									"frame": {
-										"x": 1008,
-										"y": 58,
-										"width": 125,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "EC5E095A-10F4-4427-8A3D-2D9E44D1212E",
-								"kind": "group",
-								"name": "version1",
-								"originalName": "version1",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 1008,
-									"y": 58,
-									"width": 125,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version1-rum1rta5.png",
-									"frame": {
-										"x": 1008,
-										"y": 58,
-										"width": 125,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "5184C81F-822A-4385-B87E-F17516D2B486",
-						"kind": "group",
-						"name": "version2Zone",
-						"originalName": "version2Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 845,
-							"y": 58,
-							"width": 124,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "1AD1B452-229C-42BA-B1F8-9A9F351A10CF",
-								"kind": "group",
-								"name": "version2Hover",
-								"originalName": "version2Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 845,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version2Hover-mufemui0.png",
-									"frame": {
-										"x": 845,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "DA14F835-7B48-45D5-AC6C-D6D0337E3E09",
-								"kind": "group",
-								"name": "version2",
-								"originalName": "version2",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 845,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version2-reexney4.png",
-									"frame": {
-										"x": 845,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "C058BD9E-A702-4A6A-A5A1-7794BCC62FBC",
-						"kind": "group",
-						"name": "version3Zone",
-						"originalName": "version3Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 682,
-							"y": 58,
-							"width": 124,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "05F4C8F7-62EA-49F1-9DAE-3971CC81A46E",
-								"kind": "group",
-								"name": "version3Hover",
-								"originalName": "version3Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 682,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version3Hover-mdvgnem4.png",
-									"frame": {
-										"x": 682,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "6779318F-9FFF-495F-929C-5521EE9138D7",
-								"kind": "group",
-								"name": "version3",
-								"originalName": "version3",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 682,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version3-njc3otmx.png",
-									"frame": {
-										"x": 682,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "D5D329CA-5EF0-4CF5-BA84-5FC0E174FFED",
-						"kind": "group",
-						"name": "version4Zone",
-						"originalName": "version4Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 519,
-							"y": 58,
-							"width": 125,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "ED3CB03F-10A8-4606-8ACC-2450CB9A9AF5",
-								"kind": "group",
-								"name": "version4Hover",
-								"originalName": "version4Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 519,
-									"y": 58,
-									"width": 125,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version4Hover-ruqzq0iw.png",
-									"frame": {
-										"x": 519,
-										"y": 58,
-										"width": 125,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "9CBC0928-CEF9-4469-854F-CE1D8F16F8E9",
-								"kind": "group",
-								"name": "version4",
-								"originalName": "version4",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 519,
-									"y": 58,
-									"width": 125,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version4-ouncqza5.png",
-									"frame": {
-										"x": 519,
-										"y": 58,
-										"width": 125,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "0F631BC6-F41B-40EE-9B41-FEB1C48CE901",
-						"kind": "group",
-						"name": "version5Zone",
-						"originalName": "version5Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 356,
-							"y": 58,
-							"width": 124,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "91A777DA-D123-4370-88E6-A8F3BC3300AB",
-								"kind": "group",
-								"name": "version5Hover",
-								"originalName": "version5Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 356,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version5Hover-otfbnzc3.png",
-									"frame": {
-										"x": 356,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "9D7FC452-1A00-480B-AF39-7E0305272CE2",
-								"kind": "group",
-								"name": "version5",
-								"originalName": "version5",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 356,
-									"y": 58,
-									"width": 124,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version5-ouq3rkm0.png",
-									"frame": {
-										"x": 356,
-										"y": 58,
-										"width": 124,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "4BF43B52-2C97-4253-93E2-4FBBEF172F1A",
-						"kind": "group",
-						"name": "version6Zone",
-						"originalName": "version6Zone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 193,
-							"y": 58,
-							"width": 131,
-							"height": 35
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "585E8088-3D00-49D1-B29F-380D71A52054",
-								"kind": "group",
-								"name": "version6Hover",
-								"originalName": "version6Hover",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 193,
-									"y": 58,
-									"width": 131,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version6Hover-ntg1rtgw.png",
-									"frame": {
-										"x": 193,
-										"y": 58,
-										"width": 131,
-										"height": 35
-									}
-								},
-								"children": []
-							},
-							{
-								"objectId": "1608B4A6-411A-46D6-A899-BE705B828551",
-								"kind": "group",
-								"name": "version6",
-								"originalName": "version6",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 193,
-									"y": 58,
-									"width": 131,
-									"height": 35
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-version6-mtywoei0.png",
-									"frame": {
-										"x": 193,
-										"y": 58,
-										"width": 131,
-										"height": 35
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "6503E688-E397-4248-84EE-1C170BDCED0D",
-						"kind": "group",
-						"name": "Top_bar_42px",
-						"originalName": "Top bar 42px",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": -4,
-							"y": 0,
-							"width": 1448,
-							"height": 124
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-Top_bar_42px-njuwm0u2.png",
-							"frame": {
-								"x": -4,
-								"y": 0,
-								"width": 1448,
-								"height": 124
-							}
-						},
-						"children": []
-					}
-				]
-			},
-			{
 				"objectId": "DFF7971D-B079-4766-88D8-919A6129DF88",
 				"kind": "group",
 				"name": "topBarGlobal",
@@ -3214,7 +2858,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 					"x": -4,
 					"y": -1,
 					"width": 1448,
-					"height": 161
+					"height": 203
 				},
 				"visible": true,
 				"metadata": {
@@ -3226,7 +2870,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"x": -4,
 						"y": -1,
 						"width": 1448,
-						"height": 161
+						"height": 203
 					}
 				},
 				"children": [
@@ -3239,13 +2883,13 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							"x": 0,
 							"y": 0,
 							"width": 203,
-							"height": 84
+							"height": 126
 						},
 						"layerFrame": {
 							"x": 1215,
 							"y": 55,
 							"width": 223,
-							"height": 105
+							"height": 147
 						},
 						"visible": true,
 						"metadata": {
@@ -3257,15 +2901,15 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"x": 1215,
 								"y": 55,
 								"width": 223,
-								"height": 105
+								"height": 147
 							}
 						},
 						"children": [
 							{
 								"objectId": "1AD6F22D-FD0E-4A15-A747-14784445C028",
 								"kind": "group",
-								"name": "d1",
-								"originalName": "d1",
+								"name": "d1Global",
+								"originalName": "d1Global",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 1225,
@@ -3281,8 +2925,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "FB2ACA1E-2A55-406B-9596-4A61ACAB2BA1",
 										"kind": "group",
-										"name": "d1content",
-										"originalName": "d1content*",
+										"name": "d1contentGlobal",
+										"originalName": "d1contentGlobal*",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 1247,
@@ -3295,7 +2939,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-d1content-rkiyqunb.png",
+											"path": "images/Layer-d1contentGlobal-rkiyqunb.png",
 											"frame": {
 												"x": 1247,
 												"y": 71,
@@ -3308,8 +2952,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "CECF43D1-3809-41B0-8A1B-4E4988E24897",
 										"kind": "group",
-										"name": "d1hover",
-										"originalName": "d1hover",
+										"name": "d1hoverGlobal",
+										"originalName": "d1hoverGlobal",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 1225,
@@ -3322,7 +2966,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-d1hover-q0vdrjqz.png",
+											"path": "images/Layer-d1hoverGlobal-q0vdrjqz.png",
 											"frame": {
 												"x": 1225,
 												"y": 57,
@@ -3335,10 +2979,10 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								]
 							},
 							{
-								"objectId": "94D1913A-5051-4520-9985-2D09741F7266",
+								"objectId": "8873468D-BB67-491F-B991-E38CD1AEE10E",
 								"kind": "group",
-								"name": "d2",
-								"originalName": "d2",
+								"name": "d3Global",
+								"originalName": "d3Global",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 1225,
@@ -3352,37 +2996,37 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								},
 								"children": [
 									{
-										"objectId": "61D57954-3A46-427D-80DA-742E2A8CBBCC",
+										"objectId": "68BD0071-402F-4218-89AD-1190769D735F",
 										"kind": "group",
-										"name": "d2content",
-										"originalName": "d2content*",
+										"name": "d3contentGlobal",
+										"originalName": "d3contentGlobal*",
 										"maskFrame": null,
 										"layerFrame": {
-											"x": 1244,
-											"y": 113,
-											"width": 129,
-											"height": 15
+											"x": 1245,
+											"y": 114,
+											"width": 153,
+											"height": 12
 										},
 										"visible": true,
 										"metadata": {
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-d2content-njfentc5.png",
+											"path": "images/Layer-d3contentGlobal-njhcrdaw.png",
 											"frame": {
-												"x": 1244,
-												"y": 113,
-												"width": 129,
-												"height": 15
+												"x": 1245,
+												"y": 114,
+												"width": 153,
+												"height": 12
 											}
 										},
 										"children": []
 									},
 									{
-										"objectId": "B048B1A8-FE58-47CE-8918-0B85DD7511C0",
+										"objectId": "BDBCD053-7143-446B-A4D8-B7A00D5C5755",
 										"kind": "group",
-										"name": "d2hover",
-										"originalName": "d2hover",
+										"name": "d3hoverGlobal",
+										"originalName": "d3hoverGlobal",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 1225,
@@ -3395,10 +3039,83 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-d2hover-qja0oeix.png",
+											"path": "images/Layer-d3hoverGlobal-qkrcq0qw.png",
 											"frame": {
 												"x": 1225,
 												"y": 99,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "8C17BF68-051F-4446-8187-EF7BAE0D3DAA",
+								"kind": "group",
+								"name": "d4Global",
+								"originalName": "d4Global",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1225,
+									"y": 141,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "6E976132-F430-429E-9467-9001CB0C5FBD",
+										"kind": "group",
+										"name": "d4contentGlobal",
+										"originalName": "d4contentGlobal*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1246,
+											"y": 156,
+											"width": 147,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d4contentGlobal-nku5nzyx.png",
+											"frame": {
+												"x": 1246,
+												"y": 156,
+												"width": 147,
+												"height": 14
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "2A9BB077-22A8-4C95-89BD-521B1C3AA01B",
+										"kind": "group",
+										"name": "d4hoverGlobal",
+										"originalName": "d4hoverGlobal",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1225,
+											"y": 141,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d4hoverGlobal-mke5qkiw.png",
+											"frame": {
+												"x": 1225,
+												"y": 141,
 												"width": 203,
 												"height": 42
 											}
@@ -3965,9 +3682,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 				"maskFrame": null,
 				"layerFrame": {
 					"x": -4,
-					"y": 0,
+					"y": -1,
 					"width": 1448,
-					"height": 117
+					"height": 454
 				},
 				"visible": true,
 				"metadata": {
@@ -3977,9 +3694,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 					"path": "images/Layer-topBar-mjrbmzg1.png",
 					"frame": {
 						"x": -4,
-						"y": 0,
+						"y": -1,
 						"width": 1448,
-						"height": 117
+						"height": 454
 					}
 				},
 				"children": [
@@ -3990,12 +3707,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"originalName": "topBarMobile",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": -6,
+							"x": -4,
 							"y": -1,
-							"width": 1452,
-							"height": 58
+							"width": 1448,
+							"height": 55
 						},
-						"visible": false,
+						"visible": true,
 						"metadata": {
 							"opacity": 1
 						},
@@ -4060,6 +3777,723 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"children": []
 							}
 						]
+					},
+					{
+						"objectId": "05A5DAEC-762C-4BE6-ABBA-7520A1EA1A78",
+						"kind": "group",
+						"name": "dropdown",
+						"originalName": "dropdown",
+						"maskFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 203,
+							"height": 377.9999999999999
+						},
+						"layerFrame": {
+							"x": 1217,
+							"y": 54,
+							"width": 223,
+							"height": 399
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-dropdown-mdvbnurb.png",
+							"frame": {
+								"x": 1217,
+								"y": 54,
+								"width": 223,
+								"height": 399
+							}
+						},
+						"children": [
+							{
+								"objectId": "B02DA863-4055-4B62-8A95-963362AFAF37",
+								"kind": "group",
+								"name": "d1",
+								"originalName": "d1",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 56,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "E85C3566-720E-4EE0-8AF9-C7831E1CEBBA",
+										"kind": "group",
+										"name": "d1content",
+										"originalName": "d1content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1247,
+											"y": 70,
+											"width": 141,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d1content-rtg1qzm1.png",
+											"frame": {
+												"x": 1247,
+												"y": 70,
+												"width": 141,
+												"height": 14
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "2F89D85F-E350-4F9D-B8F3-C00B264BFF29",
+										"kind": "group",
+										"name": "d1hover",
+										"originalName": "d1hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 56,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d1hover-mky4ouq4.png",
+											"frame": {
+												"x": 1227,
+												"y": 56,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "B6C735B3-E06D-49C7-8299-FF854709D7A0",
+								"kind": "group",
+								"name": "d2",
+								"originalName": "d2",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 98,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "B405FFA7-54FD-4BBB-8DA8-F6F7917191C7",
+										"kind": "group",
+										"name": "d2content",
+										"originalName": "d2content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1249,
+											"y": 112,
+											"width": 64,
+											"height": 13
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d2content-qjqwnuzg.png",
+											"frame": {
+												"x": 1249,
+												"y": 112,
+												"width": 64,
+												"height": 13
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "AE54FC87-A6B1-4A47-8A81-5B0876545F6F",
+										"kind": "group",
+										"name": "d2hover",
+										"originalName": "d2hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 98,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d2hover-quu1nezd.png",
+											"frame": {
+												"x": 1227,
+												"y": 98,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "4A804EAB-928C-4AC5-92E6-F5EAC03EF3A8",
+								"kind": "group",
+								"name": "d3",
+								"originalName": "d3",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 140,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "D3FBB25B-DEF4-4AFE-9C38-C10675FBEE12",
+										"kind": "group",
+										"name": "d3content",
+										"originalName": "d3content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1248,
+											"y": 153,
+											"width": 56,
+											"height": 16
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d3content-rdngqkiy.png",
+											"frame": {
+												"x": 1248,
+												"y": 153,
+												"width": 56,
+												"height": 16
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "435D6A18-5D34-4696-808A-A34C469A812E",
+										"kind": "group",
+										"name": "d3hover",
+										"originalName": "d3hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 140,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d3hover-ndm1rdzb.png",
+											"frame": {
+												"x": 1227,
+												"y": 140,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "DDF475EB-5984-4112-9CD5-54620018E934",
+								"kind": "group",
+								"name": "d4",
+								"originalName": "d4",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 182,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "6EFA1C05-CF1E-4DDC-98C2-0A1324F7B23D",
+										"kind": "group",
+										"name": "d4content",
+										"originalName": "d4content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1247,
+											"y": 195,
+											"width": 98,
+											"height": 16
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d4content-nkvgqtfd.png",
+											"frame": {
+												"x": 1247,
+												"y": 195,
+												"width": 98,
+												"height": 16
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "E8815F95-184C-46A4-A897-49374C990DE6",
+										"kind": "group",
+										"name": "d4hover",
+										"originalName": "d4hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 182,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d4hover-rtg4mtvg.png",
+											"frame": {
+												"x": 1227,
+												"y": 182,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "DCA22BEE-AFC7-41D3-BAA0-50D91FC781C5",
+								"kind": "group",
+								"name": "d5",
+								"originalName": "d5",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 224,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "32FBEEEE-C7B3-45DE-8D4F-DF3D2D8C0E39",
+										"kind": "group",
+										"name": "d5content",
+										"originalName": "d5content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1246,
+											"y": 236,
+											"width": 143,
+											"height": 18
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d5content-mzjgqkvf.png",
+											"frame": {
+												"x": 1246,
+												"y": 236,
+												"width": 143,
+												"height": 18
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "0145EC75-5737-43B5-9CD6-A62379228C12",
+										"kind": "group",
+										"name": "d5hover",
+										"originalName": "d5hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 224,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d5hover-mde0nuvd.png",
+											"frame": {
+												"x": 1227,
+												"y": 224,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "EBF92AB7-606A-460F-A8F7-D1BCA286924C",
+								"kind": "group",
+								"name": "d6",
+								"originalName": "d6",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 266,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "712AC787-513C-4F74-A478-4AC7C9F596E7",
+										"kind": "group",
+										"name": "d6content",
+										"originalName": "d6content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1246,
+											"y": 281,
+											"width": 90,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d6content-nzeyqum3.png",
+											"frame": {
+												"x": 1246,
+												"y": 281,
+												"width": 90,
+												"height": 14
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "A15F235A-7930-462F-B70E-5B47314817CF",
+										"kind": "group",
+										"name": "d6hover",
+										"originalName": "d6hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 266,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d6hover-qte1rjiz.png",
+											"frame": {
+												"x": 1227,
+												"y": 266,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "7B964F72-261D-4214-9229-79A1721FD77D",
+								"kind": "group",
+								"name": "d7",
+								"originalName": "d7",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 308,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "D7C36424-0D6F-466E-AF2A-D967E9C42313",
+										"kind": "group",
+										"name": "d7content",
+										"originalName": "d7content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1247,
+											"y": 323,
+											"width": 101,
+											"height": 12
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d7content-rdddmzy0.png",
+											"frame": {
+												"x": 1247,
+												"y": 323,
+												"width": 101,
+												"height": 12
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "542374ED-8C9C-4D96-B57A-D12D2417AB1C",
+										"kind": "group",
+										"name": "d7hover",
+										"originalName": "d7hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 308,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d7hover-ntqymzc0.png",
+											"frame": {
+												"x": 1227,
+												"y": 308,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "8DE7CCD5-6F25-4D19-873D-8750FF79001A",
+								"kind": "group",
+								"name": "d8",
+								"originalName": "d8",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 350,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "D534FFE5-524A-4ABD-89AC-EE6176A94D52",
+										"kind": "group",
+										"name": "d8content",
+										"originalName": "d8content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1247,
+											"y": 364,
+											"width": 97,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d8content-rduznezg.png",
+											"frame": {
+												"x": 1247,
+												"y": 364,
+												"width": 97,
+												"height": 14
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "5FA1E3F7-FBBE-43E2-BFD8-B46A07535A60",
+										"kind": "group",
+										"name": "d8hover",
+										"originalName": "d8hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 350,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d8hover-nuzbmuuz.png",
+											"frame": {
+												"x": 1227,
+												"y": 350,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "5F65EBE9-59E2-4E7D-B669-21178237D62C",
+								"kind": "group",
+								"name": "d9",
+								"originalName": "d9",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1227,
+									"y": 392,
+									"width": 203,
+									"height": 42
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "BDE6ECD5-0117-47A5-9718-257103605931",
+										"kind": "group",
+										"name": "d9content",
+										"originalName": "d9content*",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1246,
+											"y": 406,
+											"width": 78,
+											"height": 15
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d9content-qkrfnkvd.png",
+											"frame": {
+												"x": 1246,
+												"y": 406,
+												"width": 78,
+												"height": 15
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "900495DD-1C4D-4FE9-B905-009C91E85222",
+										"kind": "group",
+										"name": "d9hover",
+										"originalName": "d9hover",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1227,
+											"y": 392,
+											"width": 203,
+											"height": 42
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-d9hover-otawndk1.png",
+											"frame": {
+												"x": 1227,
+												"y": 392,
+												"width": 203,
+												"height": 42
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"objectId": "E2174ED9-76F6-44DB-962A-90C273254314",
+						"kind": "group",
+						"name": "dropdownZone",
+						"originalName": "dropdownZone",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 1375,
+							"y": 58,
+							"width": 44,
+							"height": 40
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-dropdownZone-rtixnzrf.png",
+							"frame": {
+								"x": 1375,
+								"y": 58,
+								"width": 44,
+								"height": 40
+							}
+						},
+						"children": []
 					},
 					{
 						"objectId": "92B28B41-1237-4D21-9986-FEE908933BA4",
@@ -4196,35 +4630,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"height": 72
 													}
 												},
-												"children": [
-													{
-														"objectId": "E2174ED9-76F6-44DB-962A-90C273254314",
-														"kind": "group",
-														"name": "Group_23",
-														"originalName": "Group 23",
-														"maskFrame": null,
-														"layerFrame": {
-															"x": 1375,
-															"y": 58,
-															"width": 44,
-															"height": 40
-														},
-														"visible": true,
-														"metadata": {
-															"opacity": 1
-														},
-														"image": {
-															"path": "images/Layer-Group_23-rtixnzrf.png",
-															"frame": {
-																"x": 1375,
-																"y": 58,
-																"width": 44,
-																"height": 40
-															}
-														},
-														"children": []
-													}
-												]
+												"children": []
 											},
 											{
 												"objectId": "A832FD68-3434-43E6-A522-2C2C858D7549",
@@ -4452,7 +4858,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 					"x": -5,
 					"y": 1,
 					"width": 1446,
-					"height": 4304
+					"height": 4265
 				},
 				"visible": true,
 				"metadata": {
@@ -4466,10 +4872,10 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"originalName": "mobile",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": -4,
+							"x": -5,
 							"y": 43.00000000000001,
-							"width": 1445,
-							"height": 4262
+							"width": 1446,
+							"height": 4165
 						},
 						"visible": true,
 						"metadata": {
@@ -4528,6 +4934,71 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											}
 										},
 										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "DAC2DA4F-B237-4363-B308-4458800ABD7D",
+								"kind": "group",
+								"name": "mobileToolbar5Global",
+								"originalName": "mobileToolbar5Global",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 319,
+									"y": 2564.9168312600523,
+									"width": 183,
+									"height": 58
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "CF2912FF-DFDA-422D-BF64-93989322B242",
+										"kind": "group",
+										"name": "sectionControlMobile",
+										"originalName": "sectionControlMobile",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 319,
+											"y": 2564.999999999999,
+											"width": 183,
+											"height": 57
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"children": [
+											{
+												"objectId": "095FD1F5-0BB4-4FA4-ADD6-65BB9036CC1C",
+												"kind": "group",
+												"name": "toolbarMobile",
+												"originalName": "toolbarMobile",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 319,
+													"y": 2564.999999999999,
+													"width": 183,
+													"height": 57
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-toolbarMobile-mdk1rkqx.png",
+													"frame": {
+														"x": 319,
+														"y": 2564.999999999999,
+														"width": 183,
+														"height": 57
+													}
+												},
+												"children": []
+											}
+										]
 									}
 								]
 							},
@@ -4779,6 +5250,124 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"children": []
 							},
 							{
+								"objectId": "FF86CD0C-85F1-4D94-8E80-12CA1EA2426E",
+								"kind": "group",
+								"name": "globalSectionIndicatorMobile2",
+								"originalName": "globalSectionIndicatorMobile2",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": -5,
+									"y": 2509.9168312600523,
+									"width": 1444,
+									"height": 1205
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-globalSectionIndicatorMobile2-rky4nkne.png",
+									"frame": {
+										"x": -5,
+										"y": 2509.9168312600523,
+										"width": 1444,
+										"height": 1205
+									}
+								},
+								"children": [
+									{
+										"objectId": "C4CE6876-B970-49E5-B75B-06A4F5C81C7C",
+										"kind": "group",
+										"name": "globalHoverMobile2",
+										"originalName": "globalHoverMobile2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 144,
+											"y": 2509.999999999999,
+											"width": 250,
+											"height": 47
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-globalHoverMobile2-qzrdrty4.png",
+											"frame": {
+												"x": 144,
+												"y": 2509.999999999999,
+												"width": 250,
+												"height": 47
+											}
+										},
+										"children": [
+											{
+												"objectId": "C18346FA-1C17-490D-B9A5-F560D16EEAE2",
+												"kind": "group",
+												"name": "One_Line1",
+												"originalName": "One Line",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 148,
+													"y": 2509.999999999999,
+													"width": 246,
+													"height": 47
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-One_Line-qze4mzq2.png",
+													"frame": {
+														"x": 148,
+														"y": 2509.999999999999,
+														"width": 246,
+														"height": 47
+													}
+												},
+												"children": []
+											}
+										]
+									},
+									{
+										"objectId": "9A90F964-DB8E-404D-B187-2C3641E19ED6",
+										"kind": "text",
+										"name": "globalHoverZoneMobile2",
+										"originalName": "globalHoverZoneMobile2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 120,
+											"y": 2524.999999999999,
+											"width": 15,
+											"height": 16
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1,
+											"string": "help_outline",
+											"css": [
+												"/* radio_button_checked: */",
+												"font-family: MaterialIcons-Regular;",
+												"font-size: 18px;",
+												"color: #8EA0A9;",
+												"letter-spacing: 0;"
+											]
+										},
+										"image": {
+											"path": "images/Layer-globalHoverZoneMobile2-oue5mey5.png",
+											"frame": {
+												"x": 120,
+												"y": 2524.999999999999,
+												"width": 15,
+												"height": 16
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
 								"objectId": "61420D85-DD21-4283-9209-D50FF7489EC2",
 								"kind": "group",
 								"name": "mobileHover5",
@@ -4958,7 +5547,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 													{
 														"objectId": "FD23314E-532F-496B-9D63-C7803A4D9547",
 														"kind": "group",
-														"name": "One_Line1",
+														"name": "One_Line2",
 														"originalName": "One Line",
 														"maskFrame": null,
 														"layerFrame": {
@@ -5077,10 +5666,10 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										]
 									},
 									{
-										"objectId": "AA3E27C5-0BDA-41EC-9BD6-C8565731A882",
+										"objectId": "F00B983E-25B8-4396-ACA7-CBF2DEE3B784",
 										"kind": "group",
-										"name": "Group_211",
-										"originalName": "Group 21",
+										"name": "mobileToolbar33",
+										"originalName": "mobileToolbar33",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 318,
@@ -5094,10 +5683,37 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										},
 										"children": [
 											{
-												"objectId": "F00B983E-25B8-4396-ACA7-CBF2DEE3B784",
+												"objectId": "4076564C-CA83-48BB-B817-A2D289851A53",
 												"kind": "group",
-												"name": "mobileToolbar3",
-												"originalName": "mobileToolbar3",
+												"name": "editClickBarMobile",
+												"originalName": "editClickBarMobile",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 322,
+													"y": 788.9168312600525,
+													"width": 175,
+													"height": 48
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-editClickBarMobile-nda3nju2.png",
+													"frame": {
+														"x": 322,
+														"y": 788.9168312600525,
+														"width": 175,
+														"height": 48
+													}
+												},
+												"children": []
+											},
+											{
+												"objectId": "C1EF566E-1C76-4C4A-9717-283139A7F10A",
+												"kind": "group",
+												"name": "sectionControl",
+												"originalName": "sectionControl",
 												"maskFrame": null,
 												"layerFrame": {
 													"x": 318,
@@ -5111,37 +5727,10 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 												},
 												"children": [
 													{
-														"objectId": "4076564C-CA83-48BB-B817-A2D289851A53",
+														"objectId": "69C62EDD-9BBA-4A08-B3B4-D976E23BB0A5",
 														"kind": "group",
-														"name": "editClickBarMobile",
-														"originalName": "editClickBarMobile",
-														"maskFrame": null,
-														"layerFrame": {
-															"x": 322,
-															"y": 788.9168312600525,
-															"width": 175,
-															"height": 48
-														},
-														"visible": true,
-														"metadata": {
-															"opacity": 1
-														},
-														"image": {
-															"path": "images/Layer-editClickBarMobile-nda3nju2.png",
-															"frame": {
-																"x": 322,
-																"y": 788.9168312600525,
-																"width": 175,
-																"height": 48
-															}
-														},
-														"children": []
-													},
-													{
-														"objectId": "C1EF566E-1C76-4C4A-9717-283139A7F10A",
-														"kind": "group",
-														"name": "sectionControl",
-														"originalName": "sectionControl",
+														"name": "toolbar",
+														"originalName": "toolbar",
 														"maskFrame": null,
 														"layerFrame": {
 															"x": 318,
@@ -5153,35 +5742,16 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"metadata": {
 															"opacity": 1
 														},
-														"children": [
-															{
-																"objectId": "69C62EDD-9BBA-4A08-B3B4-D976E23BB0A5",
-																"kind": "group",
-																"name": "toolbar",
-																"originalName": "toolbar",
-																"maskFrame": null,
-																"layerFrame": {
-																	"x": 318,
-																	"y": 787.9168312600525,
-																	"width": 183,
-																	"height": 57
-																},
-																"visible": true,
-																"metadata": {
-																	"opacity": 1
-																},
-																"image": {
-																	"path": "images/Layer-toolbar-njldnjjf.png",
-																	"frame": {
-																		"x": 318,
-																		"y": 787.9168312600525,
-																		"width": 183,
-																		"height": 57
-																	}
-																},
-																"children": []
+														"image": {
+															"path": "images/Layer-toolbar-njldnjjf.png",
+															"frame": {
+																"x": 318,
+																"y": 787.9168312600525,
+																"width": 183,
+																"height": 57
 															}
-														]
+														},
+														"children": []
 													}
 												]
 											}
@@ -5298,10 +5868,10 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"layerFrame": {
 									"x": -1,
 									"y": 43.916831260052504,
-									"width": 1440,
+									"width": 1441,
 									"height": 4262
 								},
-								"visible": true,
+								"visible": false,
 								"metadata": {
 									"opacity": 1
 								},
@@ -5310,7 +5880,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									"frame": {
 										"x": -1,
 										"y": 43.916831260052504,
-										"width": 1440,
+										"width": 1441,
 										"height": 4262
 									}
 								},
@@ -5726,8 +6296,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							{
 								"objectId": "D48E6D49-049C-4C77-9681-D928EDD9EF56",
 								"kind": "group",
-								"name": "globalHover",
-								"originalName": "globalHover",
+								"name": "globalHover1",
+								"originalName": "globalHover1",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 142,
@@ -5740,7 +6310,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									"opacity": 1
 								},
 								"image": {
-									"path": "images/Layer-globalHover-rdq4rtze.png",
+									"path": "images/Layer-globalHover1-rdq4rtze.png",
 									"frame": {
 										"x": 142,
 										"y": 1036,
@@ -5752,7 +6322,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "6CA8AF34-0772-4AC3-8649-2792B6051DD6",
 										"kind": "group",
-										"name": "One_Line2",
+										"name": "One_Line3",
 										"originalName": "One Line",
 										"maskFrame": null,
 										"layerFrame": {
@@ -5781,8 +6351,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							{
 								"objectId": "30819E61-5C19-412B-AA08-475A6ABC8484",
 								"kind": "text",
-								"name": "globalHoverZone",
-								"originalName": "globalHoverZone",
+								"name": "globalHoverZone1",
+								"originalName": "globalHoverZone1",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 121,
@@ -5803,7 +6373,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									]
 								},
 								"image": {
-									"path": "images/Layer-globalHoverZone-mza4mtlf.png",
+									"path": "images/Layer-globalHoverZone1-mza4mtlf.png",
 									"frame": {
 										"x": 121,
 										"y": 1051,
@@ -5843,8 +6413,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							{
 								"objectId": "FB207055-0A5A-4F0B-9C70-43CCEA1B2282",
 								"kind": "group",
-								"name": "sectionControlGlobal",
-								"originalName": "sectionControlGlobal",
+								"name": "sectionControlGlobal1",
+								"originalName": "sectionControlGlobal1",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 137,
@@ -5860,8 +6430,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "322D8203-47E0-4C79-89AC-31872626621B",
 										"kind": "group",
-										"name": "moreShitGlobal",
-										"originalName": "moreShitGlobal",
+										"name": "moreShitGlobal1",
+										"originalName": "moreShitGlobal1",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 189,
@@ -5874,7 +6444,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-moreShitGlobal-mziyrdgy.png",
+											"path": "images/Layer-moreShitGlobal1-mziyrdgy.png",
 											"frame": {
 												"x": 189,
 												"y": 1099,
@@ -5887,8 +6457,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "CE19EE31-67A7-4A85-A900-1AC7AFBAD84D",
 										"kind": "group",
-										"name": "dropdownGlobal",
-										"originalName": "dropdownGlobal",
+										"name": "dropdownGlobal1",
+										"originalName": "dropdownGlobal1",
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
@@ -5906,7 +6476,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-dropdownGlobal-q0uxouvf.png",
+											"path": "images/Layer-dropdownGlobal1-q0uxouvf.png",
 											"frame": {
 												"x": 172,
 												"y": 1097,
@@ -5919,8 +6489,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "1A0CE036-683E-4C1E-8E02-906F95703F68",
 										"kind": "group",
-										"name": "toolbarGlobal",
-										"originalName": "toolbarGlobal",
+										"name": "toolbarGlobal1",
+										"originalName": "toolbarGlobal1",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 137,
@@ -5933,7 +6503,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-toolbarGlobal-muewq0uw.png",
+											"path": "images/Layer-toolbarGlobal1-muewq0uw.png",
 											"frame": {
 												"x": 137,
 												"y": 1098,
@@ -5948,8 +6518,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							{
 								"objectId": "69D8214E-4B81-4039-BF9D-8A68BCA3A7F8",
 								"kind": "group",
-								"name": "sectionHoverGlobal",
-								"originalName": "sectionHoverGlobal",
+								"name": "sectionHoverGlobal1",
+								"originalName": "sectionHoverGlobal1",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -5,
@@ -5965,8 +6535,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "B091AD99-E336-4DE8-B8DF-6E80E9BEA20F",
 										"kind": "group",
-										"name": "globalSectionIndicator",
-										"originalName": "globalSectionIndicator",
+										"name": "globalSectionIndicator1",
+										"originalName": "globalSectionIndicator1",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": -5,
@@ -5979,39 +6549,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"opacity": 1
 										},
 										"image": {
-											"path": "images/Layer-globalSectionIndicator-qja5mufe.png",
+											"path": "images/Layer-globalSectionIndicator1-qja5mufe.png",
 											"frame": {
 												"x": -5,
 												"y": 1044,
 												"width": 1444,
 												"height": 561
-											}
-										},
-										"children": []
-									},
-									{
-										"objectId": "DA5039DA-7DAF-4000-9C2C-3D4D156E2C14",
-										"kind": "group",
-										"name": "Group_15",
-										"originalName": "Group 15",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": -1,
-											"y": 1045,
-											"width": 1441,
-											"height": 563
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-Group_15-ree1mdm5.png",
-											"frame": {
-												"x": -1,
-												"y": 1045,
-												"width": 1441,
-												"height": 563
 											}
 										},
 										"children": []
@@ -6385,16 +6928,304 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"originalName": "section4",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 126,
-							"y": 2293,
-							"width": 305,
-							"height": 231
+							"x": -5,
+							"y": 2263,
+							"width": 1444,
+							"height": 712
 						},
 						"visible": true,
 						"metadata": {
 							"opacity": 1
 						},
 						"children": [
+							{
+								"objectId": "2545540D-2695-4000-A8D3-6E5E6D378068",
+								"kind": "group",
+								"name": "section4Global",
+								"originalName": "section4Global",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": -5,
+									"y": 2263,
+									"width": 1444,
+									"height": 712
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "5413C29D-69B6-43A0-9200-5B7AB5D395BC",
+										"kind": "group",
+										"name": "globalHover2",
+										"originalName": "globalHover2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 145,
+											"y": 2263,
+											"width": 250,
+											"height": 47
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-globalHover2-ntqxm0my.png",
+											"frame": {
+												"x": 145,
+												"y": 2263,
+												"width": 250,
+												"height": 47
+											}
+										},
+										"children": [
+											{
+												"objectId": "CD351458-7E48-4F6C-AC10-9F338432F7B6",
+												"kind": "group",
+												"name": "One_Line4",
+												"originalName": "One Line",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 149,
+													"y": 2263,
+													"width": 246,
+													"height": 47
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-One_Line-q0qznte0.png",
+													"frame": {
+														"x": 149,
+														"y": 2263,
+														"width": 246,
+														"height": 47
+													}
+												},
+												"children": []
+											}
+										]
+									},
+									{
+										"objectId": "6307A840-C1B1-4C4E-9A0B-3F0FEB07CC49",
+										"kind": "text",
+										"name": "globalHoverZone2",
+										"originalName": "globalHoverZone2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 124,
+											"y": 2278,
+											"width": 15,
+											"height": 16
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1,
+											"string": "help_outline",
+											"css": [
+												"/* radio_button_checked: */",
+												"font-family: MaterialIcons-Regular;",
+												"font-size: 18px;",
+												"color: #8EA0A9;",
+												"letter-spacing: 0;"
+											]
+										},
+										"image": {
+											"path": "images/Layer-globalHoverZone2-njmwn0e4.png",
+											"frame": {
+												"x": 124,
+												"y": 2278,
+												"width": 15,
+												"height": 16
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "59FB3A3C-6694-4B3A-99E5-89926E6DCFE4",
+										"kind": "group",
+										"name": "sectionControlGlobal2",
+										"originalName": "sectionControlGlobal2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 126,
+											"y": 2343,
+											"width": 293,
+											"height": 148
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"children": [
+											{
+												"objectId": "7B4E4ADB-B3AD-4C33-9ADC-015DD9C2BE8A",
+												"kind": "group",
+												"name": "moreShitGlobal2",
+												"originalName": "moreShitGlobal2",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 178,
+													"y": 2345,
+													"width": 48,
+													"height": 48
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-moreShitGlobal2-n0i0rtrb.png",
+													"frame": {
+														"x": 178,
+														"y": 2345,
+														"width": 48,
+														"height": 48
+													}
+												},
+												"children": []
+											},
+											{
+												"objectId": "BD7024B0-814B-4642-8FD0-6D5DEF291123",
+												"kind": "group",
+												"name": "dropdownGlobal2",
+												"originalName": "dropdownGlobal2",
+												"maskFrame": {
+													"x": 0,
+													"y": 0,
+													"width": 237.5394796986639,
+													"height": 126
+												},
+												"layerFrame": {
+													"x": 161,
+													"y": 2343,
+													"width": 258,
+													"height": 148
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-dropdownGlobal2-qkq3mdi0.png",
+													"frame": {
+														"x": 161,
+														"y": 2343,
+														"width": 258,
+														"height": 148
+													}
+												},
+												"children": [
+													{
+														"objectId": "52FB4341-74BB-4809-B188-65A9DD6627FB",
+														"kind": "group",
+														"name": "disconnectGlobalSection",
+														"originalName": "disconnectGlobalSection",
+														"maskFrame": null,
+														"layerFrame": {
+															"x": 191,
+															"y": 2359.598956362758,
+															"width": 197,
+															"height": 14
+														},
+														"visible": true,
+														"metadata": {
+															"opacity": 1
+														},
+														"image": {
+															"path": "images/Layer-disconnectGlobalSection-ntjgqjqz.png",
+															"frame": {
+																"x": 191,
+																"y": 2359.598956362758,
+																"width": 197,
+																"height": 14
+															}
+														},
+														"children": []
+													}
+												]
+											},
+											{
+												"objectId": "1C91EF8C-EC9E-473F-9E62-379157760675",
+												"kind": "group",
+												"name": "toolbarGlobal2",
+												"originalName": "toolbarGlobal2",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 126,
+													"y": 2344,
+													"width": 284,
+													"height": 57
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-toolbarGlobal2-mum5muvg.png",
+													"frame": {
+														"x": 126,
+														"y": 2344,
+														"width": 284,
+														"height": 57
+													}
+												},
+												"children": []
+											}
+										]
+									},
+									{
+										"objectId": "5E1EB276-8682-4A22-92EB-EEB06A804AF0",
+										"kind": "group",
+										"name": "sectionHoverGlobal2",
+										"originalName": "sectionHoverGlobal2",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": -5,
+											"y": 2271,
+											"width": 1444,
+											"height": 704
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"children": [
+											{
+												"objectId": "A85E3C3C-6A8D-4943-BD4D-ECBD78DBC499",
+												"kind": "group",
+												"name": "globalSectionIndicator2",
+												"originalName": "globalSectionIndicator2",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": -5,
+													"y": 2271,
+													"width": 1444,
+													"height": 704
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1
+												},
+												"image": {
+													"path": "images/Layer-globalSectionIndicator2-qtg1rtnd.png",
+													"frame": {
+														"x": -5,
+														"y": 2271,
+														"width": 1444,
+														"height": 704
+													}
+												},
+												"children": []
+											}
+										]
+									}
+								]
+							},
 							{
 								"objectId": "FB11FE64-C592-43DE-9DE2-63B466449262",
 								"kind": "group",
@@ -6403,7 +7234,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 126,
-									"y": 2293,
+									"y": 2303,
 									"width": 305,
 									"height": 231
 								},
@@ -6420,7 +7251,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 179,
-											"y": 2295,
+											"y": 2305,
 											"width": 46,
 											"height": 42
 										},
@@ -6432,7 +7263,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-moreShit4-m0y2ndq3.png",
 											"frame": {
 												"x": 179,
-												"y": 2295,
+												"y": 2305,
 												"width": 46,
 												"height": 42
 											}
@@ -6452,7 +7283,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										},
 										"layerFrame": {
 											"x": 168,
-											"y": 2293,
+											"y": 2303,
 											"width": 263,
 											"height": 231
 										},
@@ -6464,7 +7295,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-dropdown4-mzuxnzc0.png",
 											"frame": {
 												"x": 168,
-												"y": 2293,
+												"y": 2303,
 												"width": 263,
 												"height": 231
 											}
@@ -6478,7 +7309,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 												"maskFrame": null,
 												"layerFrame": {
 													"x": 197,
-													"y": 2309,
+													"y": 2319,
 													"width": 176,
 													"height": 182
 												},
@@ -6490,12 +7321,40 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 													"path": "images/Layer-$0_40_0_0-menbody4.png",
 													"frame": {
 														"x": 197,
-														"y": 2309,
+														"y": 2319,
 														"width": 176,
 														"height": 182
 													}
 												},
-												"children": []
+												"children": [
+													{
+														"objectId": "87DABC86-0022-4315-A14B-E980DB964BCA",
+														"kind": "group",
+														"name": "saveGlobalSection",
+														"originalName": "saveGlobalSection",
+														"maskFrame": null,
+														"layerFrame": {
+															"x": 197,
+															"y": 2404,
+															"width": 176,
+															"height": 12
+														},
+														"visible": true,
+														"metadata": {
+															"opacity": 1
+														},
+														"image": {
+															"path": "images/Layer-saveGlobalSection-oddequjd.png",
+															"frame": {
+																"x": 197,
+																"y": 2404,
+																"width": 176,
+																"height": 12
+															}
+														},
+														"children": []
+													}
+												]
 											}
 										]
 									},
@@ -6507,7 +7366,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 126,
-											"y": 2294,
+											"y": 2304,
 											"width": 103,
 											"height": 51
 										},
@@ -6519,7 +7378,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-toolbar4-m0mxrjld.png",
 											"frame": {
 												"x": 126,
-												"y": 2294,
+												"y": 2304,
 												"width": 103,
 												"height": 51
 											}
