@@ -9,7 +9,7 @@ sketch = Framer.Importer.load("imported/Global Sections V2 Prototype@1x", scale:
 
 
 
-affordances = [btnProceed, btnBack, globSectionsClick, instSectionsClick, exit, signupClick, signupBtnBack, signupBtnInsert,toolbarEditBack, desktopMobileToggle, mobileSelected, desktopSelected, mobileSelectedToggle, desktopSelectedToggle, btnBackTopBar, sectionZone, editClick, sectionControl,  dropdown, editClickBar, sectionControl1, sectionControl2, sectionControl3, sectionControl4, sectionControl5, sectionControl, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, dropdown, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, applyChanges, desktopSelectedToggleGlobal, mobileSelectedToggleGlobal, mobileToolbar1, mobileToolbar2, mobileToolbar33, mobileToolbar4, mobileToolbar5, mobileToolbar6, sectionControlGlobal1, moreShitGlobal1, dropdownGlobal1, toolbarGlobal1, editClickBarMobile, mobileToolbar3Edit, topBarToggleMobileSelected, topBarToggleDesktopSelected,fontsBar, dropdownSettingsGlobal, d1Global, d1hoverGlobal, dropdownGlobalClick, fontbarBack, fontBar1, fontBar2, exitModalCancel, exitModalExit, tooltipZone, savingModalSave, savingModalCancel, d1, d2, d3, d4, d5, d6, d7, d8, d9, d1hover, d2hover, d3hover, d4hover, d5hover, d6hover, d7hover, d8hover, d9hover, dropdownZone, d3Global, d3hoverGlobal, d4Global, d4hoverGlobal, mobileToolbar5Global, moreShitGlobal2, dropdownGlobal2, sectionControlGlobal2, saveGlobalSection, disconnectGlobalSection]
+affordances = [btnProceed, btnBack, globSectionsClick, instSectionsClick, exit, signupClick, signupBtnBack, signupBtnInsert,toolbarEditBack, desktopMobileToggle, mobileSelected, desktopSelected, mobileSelectedToggle, desktopSelectedToggle, btnBackTopBar, sectionZone, editClick, sectionControl,  dropdown, editClickBar, sectionControl1, sectionControl2, sectionControl3, sectionControl4, sectionControl5, sectionControl, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, dropdown, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, applyChanges, desktopSelectedToggleGlobal, mobileSelectedToggleGlobal, mobileToolbar1, mobileToolbar2, mobileToolbar33, mobileToolbar4, mobileToolbar5, mobileToolbar6, sectionControlGlobal1, moreShitGlobal1, dropdownGlobal1, toolbarGlobal1, editClickBarMobile, mobileToolbar3Edit, topBarToggleMobileSelected, topBarToggleDesktopSelected,fontsBar, dropdownSettingsGlobal, d1Global, d1hoverGlobal, dropdownGlobalClick, fontbarBack, fontBar1, fontBar2, exitModalCancel, exitModalExit, savingModalSave, savingModalCancel, d1, d2, d3, d4, d5, d6, d7, d8, d9, d1hover, d2hover, d3hover, d4hover, d5hover, d6hover, d7hover, d8hover, d9hover, dropdownZone, d3Global, d3hoverGlobal, d4Global, d4hoverGlobal, mobileToolbar5Global, moreShitGlobal2, dropdownGlobal2, sectionControlGlobal2, saveGlobalSection, disconnectGlobalSection]
 
 
 createAffordances = (index) ->
@@ -457,11 +457,6 @@ applyChanges.onClick ->
 	editOpacity.ignoreEvents = true
 	dropdownSettingsGlobal.visible = false
 
-tooltip.visible = false
-tooltipZone.onMouseOver ->
-	tooltip.visible = true
-tooltipZone.onMouseOut ->
-	tooltip.visible = false
 
 
 btnProceed.onClick ->

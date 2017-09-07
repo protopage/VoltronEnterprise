@@ -1,8 +1,4 @@
 app.coffee
-framer/backups/backup-2017-08-15 14.32.13.coffee
-framer/backups/backup-2017-08-15 14.33.13.coffee
-framer/backups/backup-2017-08-15 14.35.13.coffee
-framer/backups/backup-2017-08-15 14.36.13.coffee
 framer/backups/backup-2017-08-15 14.37.13.coffee
 framer/backups/backup-2017-08-15 14.42.13.coffee
 framer/backups/backup-2017-08-15 14.45.13.coffee
@@ -39,6 +35,10 @@ framer/backups/backup-2017-08-17 16.33.57.coffee
 framer/backups/backup-2017-08-17 16.34.57.coffee
 framer/backups/backup-2017-08-17 16.35.57.coffee
 framer/backups/backup-2017-08-17 16.36.57.coffee
+framer/backups/backup-2017-08-17 16.37.57.coffee
+framer/backups/backup-2017-09-07 14.50.23.coffee
+framer/backups/backup-2017-09-07 14.50.23.vekter
+framer/backups/backup-2017-09-07 14.54.23.coffee
 framer/coffee-script.js
 framer/config.json
 framer/design.vekter
@@ -230,7 +230,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-NOTIFICATION_Dot_Orange-qz
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-nknboefg.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-q0qznte0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-qze4mzq2.png
-imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-rjy0ndng.png
 imported/Global Sections V2 Prototype@1x/images/Layer-One_Line-rkqymzmx.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-mjuzrta1.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-mtvdnuqw.png
@@ -238,7 +237,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-ntzdmdmw.pn
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-oeuynjax.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-otdgrefc.png
 imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-qjhbruy5.png
-imported/Global Sections V2 Prototype@1x/images/Layer-Radio_Selected-rthcntg0.png
 imported/Global Sections V2 Prototype@1x/images/Layer-saveGlobalSection-oddequjd.png
 imported/Global Sections V2 Prototype@1x/images/Layer-savingModalBg-mdy4qtex.png
 imported/Global Sections V2 Prototype@1x/images/Layer-savingModalCancel-njjcntlc.png
@@ -273,8 +271,6 @@ imported/Global Sections V2 Prototype@1x/images/Layer-toolbarEditBack-mjbgoejg.p
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal1-muewq0uw.png
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbarGlobal2-mum5muvg.png
 imported/Global Sections V2 Prototype@1x/images/Layer-toolbarMobile-mdk1rkqx.png
-imported/Global Sections V2 Prototype@1x/images/Layer-tooltip-otc5mtfe.png
-imported/Global Sections V2 Prototype@1x/images/Layer-tooltipZone-ote3rdc2.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBar-mjrbmzg1.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobal-rezgnzk3.png
 imported/Global Sections V2 Prototype@1x/images/Layer-topBarGlobalMessage-ouy0otay.png

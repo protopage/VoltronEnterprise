@@ -1,7 +1,28 @@
 # Sketch
 sketch = Framer.Importer.load("imported/Global Sections V2 Prototype@1x", scale: 1)
 
-{applyChangesModal, applyChangesScroll, applyChangesScrollGuide, subaccountList, applyChangesScrollBar, applyChangesScrollBarBg, applyChangesScrollKnob, btnProceed, btnBack, applyChangesOpacity, sectionManager, globSectionsClick, instSectionsClick, globScrollBar, globScrollKnob, globScrollBarBg,  signupScrollBar, signupScrollKnob, signupScrollBarBg, instScrollBar, instScrollKnob, instScrollBarBg, exit, signup, signupClick, signupScroll, signupScrollGuide, signupBtnBack, signupBtnInsert, glob, globScroll, globScrollGuide, inst, instScroll, instScrollGuide, toolbarEdit, toolbarEditBack, versionHistoryBar, backZone, versionActive, version1Zone, version1, version1Hover, version2Zone, version2, version2Hover, version3Zone, version3, version3Hover, version4Zone, version4, version4Hover, version5Zone, version5, version5Hover, version6Zone, version6, version6Hover, topBarGlobal, desktopMobileToggle, mobileSelected, desktopSelected, mobileSelectedToggle, desktopSelectedToggle, btnBackTopBar, topBar, sectionZone, scrollers, mobile, mobileSection1, mobileSection2, mobileSection3, mobileBg, editState, sectionEdit, sectionControlEdit, dropdownEdit, editClick, versionClick, moreShitEdit, editSection3, editSection2, editSection1, editOpacity, mobileEditOpacity, section, sectionControl, moreShit, dropdown, sectionHover, editClickBar, bg, sectionHover1, sectionHover2, sectionHover3, sectionHover4, sectionHover5, sectionHover, sectionControl1, sectionControl2, sectionControl3, sectionControl4, sectionControl5, sectionControl, section1, section2, section3, section4, section5, section, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, dropdown, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, moreShit, toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, globalHover1, bg3Applied, bgPage, sectionEdit, sectionControlEdit, dropdownEdit, moreShitEdit, topBarGlobalMessage, applyChanges, desktopSelectedToggleGlobal, mobileSelectedToggleGlobal, mobileGlobal, desktopGlobal, mobileHover1, mobileHover2, mobileHover3, mobileHover4, mobileHover5, mobileHover6, mobileToolbar1, mobileToolbar2, mobileToolbar33, mobileToolbar4, mobileToolbar5, mobileToolbar6, sectionGlobal, sectionControlGlobal1, sectionHoverGlobal1, moreShitGlobal1, dropdownGlobal1, toolbarGlobal1, globalHoverMobile, editClickBarMobile, mobileToolbar3Edit, topBarMobile, topBarDesktop, topBarToggleMobileSelected, topBarToggleDesktopSelected, globalSectionIndicatorMobile, exitModal, fontsBar, dropdownSettingsGlobal, d1Global, d1hoverGlobal, d2Global, d2hoverGlobal, dropdownGlobal, dropdownGlobalClick, fontbarBack, fontBar1, fontBar2, exitModalCancel, exitModalExit, artboard, barGlobal, globalAddNew, tooltip, tooltipZone, globalHoverZone1, globalHoverZoneMobile, savingModal, savingModalInputGuide, savingModalSave, savingModalCancel, savingModalClose, d1, d2, d3, d4, d5, d6, d7, d8, d9, d1hover, d2hover, d3hover, d4hover, d5hover, d6hover, d7hover, d8hover, d9hover, dropdownZone, d3Global, d3hoverGlobal, d4Global, d4hoverGlobal, sectionName, sectionNameTextGuide, sectionNameLineGuide, savingModalBg, mobileToolbar5Global, globalSectionIndicatorMobile2, globalHoverMobile2, globalHoverZoneMobile2, moreShitGlobal2, dropdownGlobal2, section4Global, sectionControlGlobal2, sectionHoverGlobal2, globalHoverZone2, globalHover2 } = sketch
+{applyChangesModal, applyChangesScroll, applyChangesScrollGuide, subaccountList, applyChangesScrollBar, applyChangesScrollBarBg, applyChangesScrollKnob, btnProceed, btnBack, applyChangesOpacity, sectionManager, globSectionsClick, instSectionsClick, globScrollBar, globScrollKnob, globScrollBarBg,  signupScrollBar, signupScrollKnob, signupScrollBarBg, instScrollBar, instScrollKnob, instScrollBarBg, exit, signup, signupClick, signupScroll, signupScrollGuide, signupBtnBack, signupBtnInsert, glob, globScroll, globScrollGuide, inst, instScroll, instScrollGuide, toolbarEdit, toolbarEditBack, backZone, versionActive, version1Zone, version1, version1Hover, version2Zone, version2, version2Hover, version3Zone, version3, version3Hover, version4Zone, version4, version4Hover, version5Zone, version5, version5Hover, version6Zone, version6, version6Hover, topBarGlobal, desktopMobileToggle, mobileSelected, desktopSelected, mobileSelectedToggle, desktopSelectedToggle, btnBackTopBar, topBar, sectionZone, scrollers, mobile, mobileSection1, mobileSection2, mobileSection3, mobileBg, editState, sectionEdit, sectionControlEdit, dropdownEdit, editClick, versionClick, moreShitEdit, editSection3, editSection2, editSection1, editOpacity, mobileEditOpacity, section, sectionControl, moreShit, dropdown, sectionHover, editClickBar, bg, sectionHover1, sectionHover2, sectionHover3, sectionHover4, sectionHover5, sectionHover, sectionControl1, sectionControl2, sectionControl3, sectionControl4, sectionControl5, sectionControl, section1, section2, section3, section4, section5, section, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, dropdown, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, moreShit, toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, globalHover1, bg3Applied, bgPage, sectionEdit, sectionControlEdit, dropdownEdit, moreShitEdit, topBarGlobalMessage, applyChanges, desktopSelectedToggleGlobal, mobileSelectedToggleGlobal, mobileGlobal, desktopGlobal, mobileHover1, mobileHover2, mobileHover3, mobileHover4, mobileHover5, mobileHover6, mobileToolbar1, mobileToolbar2, mobileToolbar33, mobileToolbar4, mobileToolbar5, mobileToolbar6, sectionGlobal, sectionControlGlobal1, sectionHoverGlobal1, moreShitGlobal1, dropdownGlobal1, toolbarGlobal1, globalHoverMobile, editClickBarMobile, mobileToolbar3Edit, topBarMobile, topBarDesktop, topBarToggleMobileSelected, topBarToggleDesktopSelected, globalSectionIndicatorMobile, exitModal, fontsBar, dropdownSettingsGlobal, d1Global, d1hoverGlobal, d2Global, d2hoverGlobal, dropdownGlobal, dropdownGlobalClick, fontbarBack, fontBar1, fontBar2, exitModalCancel, exitModalExit, artboard, barGlobal, globalAddNew, tooltip, tooltipZone, globalHoverZone1, globalHoverZoneMobile, savingModal, savingModalInputGuide, savingModalSave, savingModalCancel, savingModalClose, d1, d2, d3, d4, d5, d6, d7, d8, d9, d1hover, d2hover, d3hover, d4hover, d5hover, d6hover, d7hover, d8hover, d9hover, dropdownZone, d3Global, d3hoverGlobal, d4Global, d4hoverGlobal, sectionName, sectionNameTextGuide, sectionNameLineGuide, savingModalBg, mobileToolbar5Global, globalSectionIndicatorMobile2, globalHoverMobile2, globalHoverZoneMobile2, moreShitGlobal2, dropdownGlobal2, section4Global, sectionControlGlobal2, sectionHoverGlobal2, globalHoverZone2, globalHover2, saveGlobalSection, disconnectGlobalSection} = sketch
+
+
+# Affordances
+
+
+
+
+affordances = [btnProceed, btnBack, globSectionsClick, instSectionsClick, exit, signupClick, signupBtnBack, signupBtnInsert,toolbarEditBack, desktopMobileToggle, mobileSelected, desktopSelected, mobileSelectedToggle, desktopSelectedToggle, btnBackTopBar, sectionZone, editClick, sectionControl,  dropdown, editClickBar, sectionControl1, sectionControl2, sectionControl3, sectionControl4, sectionControl5, sectionControl, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, dropdown, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, applyChanges, desktopSelectedToggleGlobal, mobileSelectedToggleGlobal, mobileToolbar1, mobileToolbar2, mobileToolbar33, mobileToolbar4, mobileToolbar5, mobileToolbar6, sectionControlGlobal1, moreShitGlobal1, dropdownGlobal1, toolbarGlobal1, editClickBarMobile, mobileToolbar3Edit, topBarToggleMobileSelected, topBarToggleDesktopSelected,fontsBar, dropdownSettingsGlobal, d1Global, d1hoverGlobal, dropdownGlobalClick, fontbarBack, fontBar1, fontBar2, exitModalCancel, exitModalExit, savingModalSave, savingModalCancel, d1, d2, d3, d4, d5, d6, d7, d8, d9, d1hover, d2hover, d3hover, d4hover, d5hover, d6hover, d7hover, d8hover, d9hover, dropdownZone, d3Global, d3hoverGlobal, d4Global, d4hoverGlobal, mobileToolbar5Global, moreShitGlobal2, dropdownGlobal2, sectionControlGlobal2, saveGlobalSection, disconnectGlobalSection]
+
+
+createAffordances = (index) ->
+	affordances[index].onMouseOver ->
+		if affordances[index].visible == true
+			document.body.style.cursor = "pointer"
+	affordances[index].onMouseOut ->
+		document.body.style.cursor = "auto"
+
+for i in [0...affordances.length]
+	createAffordances(i)
+
+
 
 # Document Setup
 document.body.style.cursor = "auto"
@@ -11,7 +32,6 @@ InputModule = require "input"
 applyChangesModal.visible = false
 sectionManager.visible = false
 toolbarEdit.visible = false
-versionHistoryBar.visible = false
 topBarGlobal.visible = false
 editState.visible = false
 mobile.visible = false
@@ -67,8 +87,8 @@ scrollers.onClick ->
 
 
 # Dropdown Global
-dsGlobal = [d1Global, d2Global, d3Global, d4Global]
-dhoversGlobal = [d1hoverGlobal, d2hoverGlobal, d3hoverGlobal, d4hoverGlobal]
+dsGlobal = [d1Global, d3Global, d4Global]
+dhoversGlobal = [d1hoverGlobal, d3hoverGlobal, d4hoverGlobal]
 
 createHoversGlobal = (i) ->
 	dsGlobal[i].onMouseOver ->
@@ -116,6 +136,9 @@ sections = [sectionHover1, sectionHover2, sectionHover3, sectionHover4, sectionH
 mobileHovers = [mobileHover1, mobileHover2, mobileHover4, mobileHover5, mobileHover6]
 mobileToolbars = [mobileToolbar1, mobileToolbar2, mobileToolbar4, mobileToolbar5, mobileToolbar6]
 
+
+
+
 create = (index) ->
 	menus[index].visible = false
 	toolbars[index].visible = false
@@ -142,7 +165,6 @@ createMobileHovers = (index) ->
 
 for layer, i in shits
 	create(i)
-	toolbars[i].visible = false
 
 for i in [0...mobileHovers.length]
 	mobileToolbars[i].visible = false
@@ -187,13 +209,18 @@ mobileHover3.onMouseOver ->
 		mobileToolbar3Edit.visible = true
 	else
 		mobileToolbar33.visible = true
-		print 'yes'
+
 
 mobileHover3.onMouseOut ->
 	if mobileEditOpacity.visible is true
 		mobileToolbar3Edit.visible = false
 	else 
 		mobileToolbar33.visible = false
+
+
+disconnectGlobalSection.onClick ->
+	section4Global.visible = false
+
 
 # Section Manager
 
@@ -308,7 +335,6 @@ globScroller.on Events.Move, ->
 # Edit State
 
 bg3Applied.visible = false
-versionHistoryBar.visible = false
 
 
 state = null
@@ -383,7 +409,6 @@ editClickBarMobile.onClick ->
 exitModalExit.onClick ->
 	toolbarEdit.visible = false
 	topBarGlobal.visible = false
-	versionHistoryBar.visible = false
 	topBar.visible = true
 	editState.visible = false
 	editOpacity.opacity = 0
@@ -426,17 +451,12 @@ exitModalCancel.onClick ->
 applied = null
 
 applyChanges.onClick ->
-	versionHistoryBar.visible = false
 	toolbarEdit.visible = false
 	applyChangesModal.visible = true
 	fontsBar.visible = false
 	editOpacity.ignoreEvents = true
+	dropdownSettingsGlobal.visible = false
 
-tooltip.visible = false
-tooltipZone.onMouseOver ->
-	tooltip.visible = true
-tooltipZone.onMouseOut ->
-	tooltip.visible = false
 
 
 btnProceed.onClick ->
@@ -450,7 +470,6 @@ btnProceed.onClick ->
 	
 	toolbarEdit.visible = false
 	topBarGlobal.visible = false
-	versionHistoryBar.visible = false
 	topBar.visible = true
 	editState.visible = false
 	editOpacity.opacity = 0
@@ -487,32 +506,17 @@ btnBack.onClick ->
 	applyChangesModal.visible = false
 	editOpacity.ignoreEvents = false
 
-# versionClick.onClick ->
-# 	toolbarEdit.visible = false
-# 	versionHistoryBar.visible = true
-# 
-# backZone.onClick ->
-# 	versionHistoryBar.visible = false
+
 
 
 editSection3.visible = false
 
 editClick.onClick ->
 	toolbarEdit.visible = true
-	versionHistoryBar.visible = false
 
 toolbarEditBack.onClick ->
 	toolbarEdit.visible = false
 
-# versionActive.onClick ->
-# 	if applied isnt 1
-# 		editSection2.visible = false
-# 		editSection3.visible = false
-# 		editSection1.visible = true
-# 	else
-# 		editSection2.visible = false
-# 		editSection3.visible = true
-# 		editSection1.visible = false
 
 mobileGlobal.visible = false
 globalHoverMobile.visible = false
@@ -702,32 +706,35 @@ for layer, i in textGuides
 # Other Stuff
 
 section4Global.visible = false
+globalSectionIndicatorMobile2.visible = false
+mobileToolbar5Global.visible = false
+
+
+globalSectionIndicatorMobile2.onMouseOver ->
+	mobileToolbar5Global.visible = true
+globalSectionIndicatorMobile2.onMouseOut ->
+	mobileToolbar5Global.visible = false
 
 
 
 
+saveGlobalSection.onClick ->
+	savingModal.visible = true
+
+sectionControl4Original = sectionControl4.y
+
+savingModalSave.onClick ->
+	section4Global.visible = true
+	globalSectionIndicatorMobile2.visible = true
+	mobileToolbar5.visible = false
+	sectionControl4.y = sectionControlGlobal2.y
+
+disconnectGlobalSection.onClick ->
+	section4Global.visible = false
+	globalSectionIndicatorMobile2.visible = false
+	mobileToolbar5.visible = true
+	sectionControl4.y = sectionControl4Original
 
 
 
 
-
-
-
-
-
-
-
-# Affordances
-
-affordances = [toolbar, toolbar1, toolbar2, toolbar3, toolbar4, toolbar5, moreShit1, moreShit2, moreShit3, moreShit4, moreShit5, dropdown1, dropdown2, dropdown3, dropdown4, dropdown5, editClickBar, savingModalCancel, dropdownZone]
-
-
-createAffordances = (index) ->
-	affordances[index].onMouseOver ->
-		if affordances[index].visible == true
-			document.body.style.cursor = "pointer"
-	affordances[index].onMouseOut ->
-		document.body.style.cursor = "auto"
-
-for i in [0...affordances.length]
-	createAffordances(i)

@@ -230,88 +230,6 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "97911DBE-F666-4E2E-8A72-169AF31E33CB",
-						"kind": "group",
-						"name": "tooltip",
-						"originalName": "tooltip",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 689,
-							"y": 293,
-							"width": 250,
-							"height": 58
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-tooltip-otc5mtfe.png",
-							"frame": {
-								"x": 689,
-								"y": 293,
-								"width": 250,
-								"height": 58
-							}
-						},
-						"children": [
-							{
-								"objectId": "F6443FBE-D9F5-4F26-B71C-AC79350496EB",
-								"kind": "group",
-								"name": "One_Line",
-								"originalName": "One Line",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 689,
-									"y": 293,
-									"width": 246,
-									"height": 58
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-One_Line-rjy0ndng.png",
-									"frame": {
-										"x": 689,
-										"y": 293,
-										"width": 246,
-										"height": 58
-									}
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"objectId": "917D76E6-A18C-4CD8-807C-CB0790569551",
-						"kind": "group",
-						"name": "tooltipZone",
-						"originalName": "tooltipZone",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 942,
-							"y": 314,
-							"width": 15,
-							"height": 16
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-tooltipZone-ote3rdc2.png",
-							"frame": {
-								"x": 942,
-								"y": 314,
-								"width": 15,
-								"height": 16
-							}
-						},
-						"children": []
-					},
-					{
 						"objectId": "F3547378-2BD3-4443-A6C5-048B52F2713B",
 						"kind": "group",
 						"name": "applyChangesScroll",
@@ -319,9 +237,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 416,
-							"y": 358,
+							"y": 382,
 							"width": 115,
-							"height": 192
+							"height": 162
 						},
 						"visible": true,
 						"metadata": {
@@ -336,9 +254,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 416,
-									"y": 358,
+									"y": 382,
 									"width": 115,
-									"height": 192
+									"height": 162
 								},
 								"visible": true,
 								"metadata": {
@@ -353,9 +271,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 416,
-											"y": 360,
+											"y": 384,
 											"width": 8,
-											"height": 188
+											"height": 158
 										},
 										"visible": true,
 										"metadata": {
@@ -370,9 +288,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 												"maskFrame": null,
 												"layerFrame": {
 													"x": 416,
-													"y": 360,
+													"y": 384,
 													"width": 8,
-													"height": 188
+													"height": 158
 												},
 												"visible": true,
 												"metadata": {
@@ -382,9 +300,9 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 													"path": "images/Layer-Group_2-mje0muu4.png",
 													"frame": {
 														"x": 416,
-														"y": 360,
+														"y": 384,
 														"width": 8,
-														"height": 188
+														"height": 158
 													}
 												},
 												"children": [
@@ -396,7 +314,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"maskFrame": null,
 														"layerFrame": {
 															"x": 416,
-															"y": 480,
+															"y": 504,
 															"width": 8,
 															"height": 8
 														},
@@ -413,7 +331,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 																"maskFrame": null,
 																"layerFrame": {
 																	"x": 415.9667725143404,
-																	"y": 479.8459989418234,
+																	"y": 503.8459989418234,
 																	"width": 8,
 																	"height": 9
 																},
@@ -425,7 +343,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 																	"path": "images/Layer-NOTIFICATION_Dot_Orange-mjizmje4.png",
 																	"frame": {
 																		"x": 415.9667725143404,
-																		"y": 479.8459989418234,
+																		"y": 503.8459989418234,
 																		"width": 8,
 																		"height": 9
 																	}
@@ -442,7 +360,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"maskFrame": null,
 														"layerFrame": {
 															"x": 416,
-															"y": 450,
+															"y": 474,
 															"width": 8,
 															"height": 8
 														},
@@ -459,7 +377,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 																"maskFrame": null,
 																"layerFrame": {
 																	"x": 415.9667725143404,
-																	"y": 449.8459989418234,
+																	"y": 473.8459989418234,
 																	"width": 8,
 																	"height": 9
 																},
@@ -471,7 +389,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 																	"path": "images/Layer-NOTIFICATION_Dot_Orange-qzy2mdbb.png",
 																	"frame": {
 																		"x": 415.9667725143404,
-																		"y": 449.8459989418234,
+																		"y": 473.8459989418234,
 																		"width": 8,
 																		"height": 9
 																	}
@@ -490,7 +408,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 												"maskFrame": null,
 												"layerFrame": {
 													"x": 415,
-													"y": 421,
+													"y": 445,
 													"width": 9,
 													"height": 9
 												},
@@ -507,7 +425,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"maskFrame": null,
 														"layerFrame": {
 															"x": 415.9667725143404,
-															"y": 421.8459989418234,
+															"y": 445.8459989418234,
 															"width": 8,
 															"height": 8
 														},
@@ -527,7 +445,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 												"maskFrame": null,
 												"layerFrame": {
 													"x": 415,
-													"y": 510,
+													"y": 534,
 													"width": 9,
 													"height": 9
 												},
@@ -544,7 +462,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 														"maskFrame": null,
 														"layerFrame": {
 															"x": 415.9667725143404,
-															"y": 510.8459989418234,
+															"y": 534.8459989418234,
 															"width": 8,
 															"height": 8
 														},
@@ -566,7 +484,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 441,
-											"y": 358,
+											"y": 382,
 											"width": 90,
 											"height": 14
 										},
@@ -587,7 +505,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-qjhbruy5.png",
 											"frame": {
 												"x": 441,
-												"y": 358,
+												"y": 382,
 												"width": 90,
 												"height": 14
 											}
@@ -595,50 +513,14 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 										"children": []
 									},
 									{
-										"objectId": "E8B58403-7507-4485-B993-95BFECF03324",
+										"objectId": "97FDAB46-D8A0-4CED-90FC-D447974CDB1C",
 										"kind": "text",
 										"name": "Radio_Selected1",
 										"originalName": "Radio Selected",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 441,
-											"y": 538,
-											"width": 73,
-											"height": 12
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1,
-											"string": "Nissan USA",
-											"css": [
-												"/* Type something: */",
-												"font-family: Roboto-Regular;",
-												"font-size: 14px;",
-												"color: #37475A;",
-												"letter-spacing: 0.14px;",
-												"line-height: 20px;"
-											]
-										},
-										"image": {
-											"path": "images/Layer-Radio_Selected-rthcntg0.png",
-											"frame": {
-												"x": 441,
-												"y": 538,
-												"width": 73,
-												"height": 12
-											}
-										},
-										"children": []
-									},
-									{
-										"objectId": "97FDAB46-D8A0-4CED-90FC-D447974CDB1C",
-										"kind": "text",
-										"name": "Radio_Selected2",
-										"originalName": "Radio Selected",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 441,
-											"y": 508,
+											"y": 532,
 											"width": 31,
 											"height": 12
 										},
@@ -659,7 +541,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-otdgrefc.png",
 											"frame": {
 												"x": 441,
-												"y": 508,
+												"y": 532,
 												"width": 31,
 												"height": 12
 											}
@@ -669,12 +551,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "56C030CE-C435-46FB-B963-F15206F081D6",
 										"kind": "text",
-										"name": "Radio_Selected3",
+										"name": "Radio_Selected2",
 										"originalName": "Radio Selected",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 440,
-											"y": 479,
+											"y": 503,
 											"width": 65,
 											"height": 13
 										},
@@ -695,7 +577,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-ntzdmdmw.png",
 											"frame": {
 												"x": 440,
-												"y": 479,
+												"y": 503,
 												"width": 65,
 												"height": 13
 											}
@@ -705,12 +587,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "253E05D4-BAD8-4E73-B214-13AAC9FB3301",
 										"kind": "text",
-										"name": "Radio_Selected4",
+										"name": "Radio_Selected3",
 										"originalName": "Radio Selected",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 440,
-											"y": 448,
+											"y": 472,
 											"width": 47,
 											"height": 12
 										},
@@ -731,7 +613,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-mjuzrta1.png",
 											"frame": {
 												"x": 440,
-												"y": 448,
+												"y": 472,
 												"width": 47,
 												"height": 12
 											}
@@ -741,12 +623,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "15C5D0B7-CE2E-4FE4-BA4C-1DAB90B77D8C",
 										"kind": "text",
-										"name": "Radio_Selected5",
+										"name": "Radio_Selected4",
 										"originalName": "Radio Selected",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 441,
-											"y": 419,
+											"y": 443,
 											"width": 31,
 											"height": 11
 										},
@@ -767,7 +649,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-mtvdnuqw.png",
 											"frame": {
 												"x": 441,
-												"y": 419,
+												"y": 443,
 												"width": 31,
 												"height": 11
 											}
@@ -777,12 +659,12 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "8E260182-19E7-4008-AD05-644107E7915F",
 										"kind": "text",
-										"name": "Radio_Selected6",
+										"name": "Radio_Selected5",
 										"originalName": "Radio Selected",
 										"maskFrame": null,
 										"layerFrame": {
 											"x": 441,
-											"y": 388,
+											"y": 412,
 											"width": 49,
 											"height": 12
 										},
@@ -803,7 +685,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											"path": "images/Layer-Radio_Selected-oeuynjax.png",
 											"frame": {
 												"x": 441,
-												"y": 388,
+												"y": 412,
 												"width": 49,
 												"height": 12
 											}
@@ -825,7 +707,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 								},
 								"layerFrame": {
 									"x": 380,
-									"y": 339,
+									"y": 363,
 									"width": 680,
 									"height": 218
 								},
@@ -837,7 +719,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									"path": "images/Layer-applyChangesScrollGuide-quzdqtu3.png",
 									"frame": {
 										"x": 380,
-										"y": 339,
+										"y": 363,
 										"width": 680,
 										"height": 218
 									}
@@ -855,8 +737,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 410,
 							"y": 194,
-							"width": 521,
-							"height": 137
+							"width": 553,
+							"height": 161
 						},
 						"visible": true,
 						"metadata": {
@@ -867,8 +749,8 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 							"frame": {
 								"x": 410,
 								"y": 194,
-								"width": 521,
-								"height": 137
+								"width": 553,
+								"height": 161
 							}
 						},
 						"children": [
@@ -5304,7 +5186,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											{
 												"objectId": "C18346FA-1C17-490D-B9A5-F560D16EEAE2",
 												"kind": "group",
-												"name": "One_Line1",
+												"name": "One_Line",
 												"originalName": "One Line",
 												"maskFrame": null,
 												"layerFrame": {
@@ -5547,7 +5429,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 													{
 														"objectId": "FD23314E-532F-496B-9D63-C7803A4D9547",
 														"kind": "group",
-														"name": "One_Line2",
+														"name": "One_Line1",
 														"originalName": "One Line",
 														"maskFrame": null,
 														"layerFrame": {
@@ -6322,7 +6204,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 									{
 										"objectId": "6CA8AF34-0772-4AC3-8649-2792B6051DD6",
 										"kind": "group",
-										"name": "One_Line3",
+										"name": "One_Line2",
 										"originalName": "One Line",
 										"maskFrame": null,
 										"layerFrame": {
@@ -6984,7 +6866,7 @@ window.__imported__["Global Sections V2 Prototype@1x/layers.json.js"] = [
 											{
 												"objectId": "CD351458-7E48-4F6C-AC10-9F338432F7B6",
 												"kind": "group",
-												"name": "One_Line4",
+												"name": "One_Line3",
 												"originalName": "One Line",
 												"maskFrame": null,
 												"layerFrame": {
